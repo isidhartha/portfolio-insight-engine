@@ -11,3 +11,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging for all operations
 
 
+### 2022-02-02
+- docs: document all required environment variables
+
+
