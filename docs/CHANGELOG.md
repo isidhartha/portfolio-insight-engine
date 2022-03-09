@@ -55,3 +55,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2022-03-09
+- fix: resolve race condition in parallel ticker fetch
+
+
