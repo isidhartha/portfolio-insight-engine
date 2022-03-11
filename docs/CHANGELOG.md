@@ -59,3 +59,7 @@ All notable changes are documented here.
 - fix: resolve race condition in parallel ticker fetch
 
 
+### 2022-03-11
+- feat: add weekly cron schedule via Trigger.dev API
+
+
