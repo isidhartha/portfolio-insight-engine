@@ -63,3 +63,7 @@ All notable changes are documented here.
 - feat: add weekly cron schedule via Trigger.dev API
 
 
+### 2022-03-14
+- feat: implement performance comparison vs benchmark
+
+
