@@ -75,3 +75,7 @@ All notable changes are documented here.
 - refactor: extract all prompt templates to constants file
 
 
+### 2022-03-21
+- fix: handle yFinance symbol not found error gracefully
+
+
