@@ -79,3 +79,7 @@ All notable changes are documented here.
 - fix: handle yFinance symbol not found error gracefully
 
 
+### 2022-03-24
+- fix: handle missing race data for sprint race weekends
+
+
