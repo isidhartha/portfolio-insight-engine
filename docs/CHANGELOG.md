@@ -87,3 +87,7 @@ All notable changes are documented here.
 - feat: add race data JSON parsing with Zod schema
 
 
+### 2022-03-29
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
