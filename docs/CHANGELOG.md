@@ -103,3 +103,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2022-04-14
+- style: run prettier on all TypeScript source files
+
+
