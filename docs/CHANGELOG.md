@@ -115,3 +115,7 @@ All notable changes are documented here.
 - feat: implement top-K context retrieval by cosine similarity
 
 
+### 2022-04-20
+- feat: implement OpenAI embeddings for semantic indexing
+
+
