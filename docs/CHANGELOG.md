@@ -123,3 +123,7 @@ All notable changes are documented here.
 - feat: implement top-K context retrieval by cosine similarity
 
 
+### 2022-04-28
+- feat: implement structured JSON logging for all operations
+
+
