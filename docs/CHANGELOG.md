@@ -127,3 +127,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging for all operations
 
 
+### 2022-04-30
+- fix: handle Resend API rate limiting with retry logic
+
+
