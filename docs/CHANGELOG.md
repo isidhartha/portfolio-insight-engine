@@ -131,3 +131,7 @@ All notable changes are documented here.
 - fix: handle Resend API rate limiting with retry logic
 
 
+### 2022-05-02
+- fix: handle missing race data for sprint race weekends
+
+
