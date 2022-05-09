@@ -143,3 +143,7 @@ All notable changes are documented here.
 - fix: resolve job retry causing duplicate email delivery
 
 
+### 2022-05-09
+- feat: implement CLI for ingest and query commands
+
+
