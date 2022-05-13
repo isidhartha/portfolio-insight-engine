@@ -151,3 +151,7 @@ All notable changes are documented here.
 - fix: handle empty vector store gracefully on first query
 
 
+### 2022-05-13
+- feat: implement HTML email template with performance tables
+
+
