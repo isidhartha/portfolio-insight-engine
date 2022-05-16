@@ -155,3 +155,7 @@ All notable changes are documented here.
 - feat: implement HTML email template with performance tables
 
 
+### 2022-05-16
+- perf: implement parallel ticker fetching with Promise.all
+
+
