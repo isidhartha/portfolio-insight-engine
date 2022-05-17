@@ -159,3 +159,7 @@ All notable changes are documented here.
 - perf: implement parallel ticker fetching with Promise.all
 
 
+### 2022-05-17
+- test: add email template rendering snapshot test
+
+
