@@ -167,3 +167,7 @@ All notable changes are documented here.
 - feat: add weekly cron schedule via Trigger.dev API
 
 
+### 2022-05-20
+- fix: handle cold-start API key validation failure
+
+
