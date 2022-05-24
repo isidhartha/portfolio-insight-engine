@@ -171,3 +171,7 @@ All notable changes are documented here.
 - fix: handle cold-start API key validation failure
 
 
+### 2022-05-24
+- refactor: consolidate error handling into middleware wrapper
+
+
