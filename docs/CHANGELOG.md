@@ -175,3 +175,7 @@ All notable changes are documented here.
 - refactor: consolidate error handling into middleware wrapper
 
 
+### 2022-05-25
+- feat: implement HTML email template with performance tables
+
+
