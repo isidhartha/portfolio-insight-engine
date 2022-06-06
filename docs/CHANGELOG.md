@@ -183,3 +183,7 @@ All notable changes are documented here.
 - feat: add chart image generation and email attachment
 
 
+### 2022-06-06
+- fix: handle cold-start API key validation failure
+
+
