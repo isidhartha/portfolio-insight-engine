@@ -187,3 +187,7 @@ All notable changes are documented here.
 - fix: handle cold-start API key validation failure
 
 
+### 2022-06-19
+- feat: implement Resend email dispatch with HTML template
+
+
