@@ -195,3 +195,7 @@ All notable changes are documented here.
 - feat: add Zod validation for all job input and output types
 
 
+### 2022-06-24
+- fix: handle incomplete FastF1 data for cancelled races
+
+
