@@ -207,3 +207,7 @@ All notable changes are documented here.
 - refactor: separate ingest and query into distinct CLI commands
 
 
+### 2022-07-07
+- refactor: extract chunking logic into reusable utility
+
+
