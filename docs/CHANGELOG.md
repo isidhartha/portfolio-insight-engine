@@ -215,3 +215,7 @@ All notable changes are documented here.
 - docs: document portfolio CSV format with example
 
 
+### 2022-07-08
+- feat: add OpenAI GPT-4o integration for content generation
+
+
