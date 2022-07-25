@@ -235,3 +235,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2022-07-25
+- fix: resolve FastF1 subprocess timeout with configurable limit
+
+
