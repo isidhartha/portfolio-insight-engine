@@ -239,3 +239,7 @@ All notable changes are documented here.
 - fix: resolve FastF1 subprocess timeout with configurable limit
 
 
+### 2022-07-26
+- feat: implement OpenAI embeddings for semantic indexing
+
+
