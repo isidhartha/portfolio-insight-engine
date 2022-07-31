@@ -243,3 +243,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2022-07-31
+- refactor: extract HTML email template to separate module
+
+
