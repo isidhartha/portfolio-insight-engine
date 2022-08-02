@@ -259,3 +259,7 @@ All notable changes are documented here.
 - fix: resolve FastF1 subprocess timeout with configurable limit
 
 
+### 2022-08-02
+- test: add unit tests for portfolio CSV parser
+
+
