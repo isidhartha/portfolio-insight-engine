@@ -271,3 +271,7 @@ All notable changes are documented here.
 - fix: resolve FastF1 subprocess timeout with configurable limit
 
 
+### 2022-08-15
+- docs: update docs/API.md with job input and output schema
+
+
