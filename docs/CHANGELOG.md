@@ -291,3 +291,7 @@ All notable changes are documented here.
 - feat: implement RAG document ingestion pipeline
 
 
+### 2022-08-29
+- style: run prettier on all TypeScript source files
+
+
