@@ -299,3 +299,7 @@ All notable changes are documented here.
 - feat: implement dry-run mode for testing without email send
 
 
+### 2022-08-30
+- docs: document portfolio CSV format with example
+
+
