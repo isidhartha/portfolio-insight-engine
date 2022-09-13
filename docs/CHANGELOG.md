@@ -307,3 +307,7 @@ All notable changes are documented here.
 - test: add Zod schema validation tests
 
 
+### 2022-09-13
+- fix: resolve HTML entity encoding in email template
+
+
