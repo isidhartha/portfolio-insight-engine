@@ -311,3 +311,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2022-09-14
+- docs: update README with Trigger.dev setup walkthrough
+
+
