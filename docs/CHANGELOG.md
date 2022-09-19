@@ -323,3 +323,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging for all operations
 
 
+### 2022-09-19
+- feat: add Zod validation for all job input and output types
+
+
