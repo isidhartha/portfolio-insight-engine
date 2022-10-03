@@ -351,3 +351,7 @@ All notable changes are documented here.
 - fix: fix text chunking at Unicode character boundaries
 
 
+### 2022-10-03
+- feat: add environment variable validation on startup
+
+
