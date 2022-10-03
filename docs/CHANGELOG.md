@@ -355,3 +355,7 @@ All notable changes are documented here.
 - feat: add environment variable validation on startup
 
 
+### 2022-10-03
+- fix: handle cold-start API key validation failure
+
+
