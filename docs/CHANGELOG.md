@@ -363,3 +363,7 @@ All notable changes are documented here.
 - fix: resolve race condition in parallel ticker fetch
 
 
+### 2022-10-09
+- style: fix eslint violations across job handlers
+
+
