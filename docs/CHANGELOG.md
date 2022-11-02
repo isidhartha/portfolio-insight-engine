@@ -379,3 +379,7 @@ All notable changes are documented here.
 - feat: add weekly cron schedule via Trigger.dev API
 
 
+### 2022-11-02
+- feat: add GPT-4o answer generation with source citations
+
+
