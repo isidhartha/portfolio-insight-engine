@@ -387,3 +387,7 @@ All notable changes are documented here.
 - feat: add vector store integration for context retrieval
 
 
+### 2022-11-06
+- chore: update openai package to latest stable
+
+
