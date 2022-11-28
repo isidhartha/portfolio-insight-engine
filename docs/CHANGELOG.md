@@ -403,3 +403,7 @@ All notable changes are documented here.
 - feat: implement HTML email template with performance tables
 
 
+### 2022-11-28
+- feat: add configurable text chunking with overlap
+
+
