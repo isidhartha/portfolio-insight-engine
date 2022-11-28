@@ -395,3 +395,7 @@ All notable changes are documented here.
 - chore: pin trigger.dev packages to stable release
 
 
+### 2022-11-28
+- feat: implement Trigger.dev scheduled job scaffold
+
+
