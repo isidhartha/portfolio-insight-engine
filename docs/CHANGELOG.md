@@ -411,3 +411,7 @@ All notable changes are documented here.
 - fix: handle yFinance symbol not found error gracefully
 
 
+### 2022-11-29
+- perf: reduce HTML email template render time
+
+
