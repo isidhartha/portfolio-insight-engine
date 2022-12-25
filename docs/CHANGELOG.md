@@ -435,3 +435,7 @@ All notable changes are documented here.
 - docs: update README with Trigger.dev setup walkthrough
 
 
+### 2022-12-25
+- style: fix eslint violations across job handlers
+
+
