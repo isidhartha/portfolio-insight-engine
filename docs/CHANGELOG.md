@@ -439,3 +439,7 @@ All notable changes are documented here.
 - style: fix eslint violations across job handlers
 
 
+### 2022-12-27
+- feat: implement yfin.dev price fetch per ticker symbol
+
+
