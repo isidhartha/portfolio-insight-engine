@@ -443,3 +443,7 @@ All notable changes are documented here.
 - feat: implement yfin.dev price fetch per ticker symbol
 
 
+### 2022-12-30
+- fix: fix Zod union type validation for optional fields
+
+
