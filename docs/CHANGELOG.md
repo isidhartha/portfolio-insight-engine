@@ -451,3 +451,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2022-12-30
+- fix: handle missing race data for sprint race weekends
+
+
