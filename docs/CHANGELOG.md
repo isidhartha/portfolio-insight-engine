@@ -483,3 +483,7 @@ All notable changes are documented here.
 - refactor: extract chunking logic into reusable utility
 
 
+### 2023-01-26
+- fix: handle cold-start API key validation failure
+
+
