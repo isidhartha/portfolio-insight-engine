@@ -487,3 +487,7 @@ All notable changes are documented here.
 - fix: handle cold-start API key validation failure
 
 
+### 2023-01-28
+- docs: document portfolio CSV format with example
+
+
