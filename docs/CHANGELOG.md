@@ -491,3 +491,7 @@ All notable changes are documented here.
 - docs: document portfolio CSV format with example
 
 
+### 2023-02-01
+- fix: handle incomplete FastF1 data for cancelled races
+
+
