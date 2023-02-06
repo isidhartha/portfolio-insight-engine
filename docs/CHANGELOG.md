@@ -495,3 +495,7 @@ All notable changes are documented here.
 - fix: handle incomplete FastF1 data for cancelled races
 
 
+### 2023-02-06
+- fix: fix text chunking at Unicode character boundaries
+
+
