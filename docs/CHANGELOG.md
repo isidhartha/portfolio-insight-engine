@@ -507,3 +507,7 @@ All notable changes are documented here.
 - feat: add weekly cron schedule via Trigger.dev API
 
 
+### 2023-02-17
+- refactor: consolidate error handling into middleware wrapper
+
+
