@@ -511,3 +511,7 @@ All notable changes are documented here.
 - refactor: consolidate error handling into middleware wrapper
 
 
+### 2023-02-20
+- feat: implement structured JSON logging for all operations
+
+
