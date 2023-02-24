@@ -515,3 +515,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging for all operations
 
 
+### 2023-02-24
+- test: add email template rendering snapshot test
+
+
