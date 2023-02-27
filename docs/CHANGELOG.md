@@ -527,3 +527,7 @@ All notable changes are documented here.
 - docs: document all required environment variables
 
 
+### 2023-02-27
+- feat: implement yfin.dev price fetch per ticker symbol
+
+
