@@ -531,3 +531,7 @@ All notable changes are documented here.
 - feat: implement yfin.dev price fetch per ticker symbol
 
 
+### 2023-03-04
+- feat: implement Resend email dispatch with HTML template
+
+
