@@ -535,3 +535,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2023-03-14
+- feat: add exponential backoff retry for API failures
+
+
