@@ -555,3 +555,7 @@ All notable changes are documented here.
 - style: fix eslint violations across job handlers
 
 
+### 2023-03-28
+- fix: handle cold-start API key validation failure
+
+
