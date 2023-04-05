@@ -559,3 +559,7 @@ All notable changes are documented here.
 - fix: handle cold-start API key validation failure
 
 
+### 2023-04-05
+- feat: add Zod validation for all job input and output types
+
+
