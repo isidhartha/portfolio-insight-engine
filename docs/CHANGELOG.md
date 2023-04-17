@@ -567,3 +567,7 @@ All notable changes are documented here.
 - chore: configure tsconfig strict mode
 
 
+### 2023-04-17
+- docs: add RAG pipeline explanation to architecture.md
+
+
