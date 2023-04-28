@@ -579,3 +579,7 @@ All notable changes are documented here.
 - feat: implement dry-run mode for testing without email send
 
 
+### 2023-04-28
+- test: add mock-based test for OpenAI API call
+
+
