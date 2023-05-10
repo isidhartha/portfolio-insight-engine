@@ -591,3 +591,7 @@ All notable changes are documented here.
 - test: add Zod schema validation tests
 
 
+### 2023-05-10
+- feat: add environment variable validation on startup
+
+
