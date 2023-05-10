@@ -595,3 +595,7 @@ All notable changes are documented here.
 - feat: add environment variable validation on startup
 
 
+### 2023-05-10
+- style: run prettier on all TypeScript source files
+
+
