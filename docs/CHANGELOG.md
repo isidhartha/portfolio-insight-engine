@@ -599,3 +599,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2023-05-15
+- chore: add husky pre-commit hooks for lint and format
+
+
