@@ -603,3 +603,7 @@ All notable changes are documented here.
 - chore: add husky pre-commit hooks for lint and format
 
 
+### 2023-05-21
+- fix: fix Zod union type validation for optional fields
+
+
