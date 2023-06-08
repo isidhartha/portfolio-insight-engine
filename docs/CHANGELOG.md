@@ -631,3 +631,7 @@ All notable changes are documented here.
 - feat: add race data JSON parsing with Zod schema
 
 
+### 2023-06-08
+- feat: implement top-K context retrieval by cosine similarity
+
+
