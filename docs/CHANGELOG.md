@@ -635,3 +635,7 @@ All notable changes are documented here.
 - feat: implement top-K context retrieval by cosine similarity
 
 
+### 2023-06-09
+- feat: implement performance comparison vs benchmark
+
+
