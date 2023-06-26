@@ -659,3 +659,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2023-06-26
+- chore: pin trigger.dev packages to stable release
+
+
