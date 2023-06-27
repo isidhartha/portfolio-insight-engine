@@ -663,3 +663,7 @@ All notable changes are documented here.
 - chore: pin trigger.dev packages to stable release
 
 
+### 2023-06-27
+- fix: fix text chunking at Unicode character boundaries
+
+
