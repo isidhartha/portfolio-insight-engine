@@ -667,3 +667,7 @@ All notable changes are documented here.
 - fix: fix text chunking at Unicode character boundaries
 
 
+### 2023-06-28
+- feat: implement HTML email template with performance tables
+
+
