@@ -671,3 +671,7 @@ All notable changes are documented here.
 - feat: implement HTML email template with performance tables
 
 
+### 2023-06-30
+- feat: add race data JSON parsing with Zod schema
+
+
