@@ -683,3 +683,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2023-07-04
+- test: add unit tests for portfolio CSV parser
+
+
