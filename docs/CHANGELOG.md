@@ -679,3 +679,7 @@ All notable changes are documented here.
 - feat: add environment variable validation on startup
 
 
+### 2023-07-04
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
