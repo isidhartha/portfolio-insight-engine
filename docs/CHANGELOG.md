@@ -687,3 +687,7 @@ All notable changes are documented here.
 - test: add unit tests for portfolio CSV parser
 
 
+### 2023-07-06
+- chore: update openai package to latest stable
+
+
