@@ -691,3 +691,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2023-07-08
+- refactor: separate ingest and query into distinct CLI commands
+
+
