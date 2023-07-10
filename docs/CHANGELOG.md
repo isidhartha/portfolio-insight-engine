@@ -699,3 +699,7 @@ All notable changes are documented here.
 - docs: document portfolio CSV format with example
 
 
+### 2023-07-10
+- feat: implement RAG document ingestion pipeline
+
+
