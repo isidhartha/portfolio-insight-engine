@@ -703,3 +703,7 @@ All notable changes are documented here.
 - feat: implement RAG document ingestion pipeline
 
 
+### 2023-07-13
+- refactor: separate ingest and query into distinct CLI commands
+
+
