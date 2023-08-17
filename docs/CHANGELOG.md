@@ -731,3 +731,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2023-08-17
+- style: fix eslint violations across job handlers
+
+
