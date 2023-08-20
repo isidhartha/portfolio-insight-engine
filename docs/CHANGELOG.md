@@ -739,3 +739,7 @@ All notable changes are documented here.
 - fix: handle Resend API rate limiting with retry logic
 
 
+### 2023-08-20
+- feat: implement structured race summary prompt template
+
+
