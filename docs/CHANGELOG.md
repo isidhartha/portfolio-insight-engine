@@ -751,3 +751,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2023-08-30
+- fix: fix OpenAI token limit for long race summaries
+
+
