@@ -747,3 +747,7 @@ All notable changes are documented here.
 - feat: implement dry-run mode for testing without email send
 
 
+### 2023-08-30
+- docs: add RAG pipeline explanation to architecture.md
+
+
