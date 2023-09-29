@@ -771,3 +771,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2023-09-29
+- feat: implement dry-run mode for testing without email send
+
+
