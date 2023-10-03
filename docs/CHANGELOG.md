@@ -775,3 +775,7 @@ All notable changes are documented here.
 - feat: implement dry-run mode for testing without email send
 
 
+### 2023-10-03
+- feat: add chart image generation and email attachment
+
+
