@@ -779,3 +779,7 @@ All notable changes are documented here.
 - feat: add chart image generation and email attachment
 
 
+### 2023-10-05
+- refactor: consolidate error handling into middleware wrapper
+
+
