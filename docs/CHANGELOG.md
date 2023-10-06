@@ -787,3 +787,7 @@ All notable changes are documented here.
 - feat: implement Trigger.dev scheduled job scaffold
 
 
+### 2023-10-06
+- feat: add configurable text chunking with overlap
+
+
