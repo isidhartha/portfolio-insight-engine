@@ -799,3 +799,7 @@ All notable changes are documented here.
 - feat: add GPT-4o answer generation with source citations
 
 
+### 2023-10-18
+- test: add mock-based test for OpenAI API call
+
+
