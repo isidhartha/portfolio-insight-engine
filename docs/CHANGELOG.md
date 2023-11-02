@@ -811,3 +811,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2023-11-02
+- fix: resolve race condition in parallel ticker fetch
+
+
