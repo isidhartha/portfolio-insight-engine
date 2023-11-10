@@ -819,3 +819,7 @@ All notable changes are documented here.
 - feat: add configurable text chunking with overlap
 
 
+### 2023-11-10
+- feat: implement Resend email dispatch with HTML template
+
+
