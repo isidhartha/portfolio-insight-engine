@@ -827,3 +827,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2023-11-21
+- fix: resolve race condition in parallel ticker fetch
+
+
