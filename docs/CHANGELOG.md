@@ -835,3 +835,7 @@ All notable changes are documented here.
 - refactor: extract chunking logic into reusable utility
 
 
+### 2023-11-29
+- docs: document portfolio CSV format with example
+
+
