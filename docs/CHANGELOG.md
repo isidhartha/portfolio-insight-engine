@@ -843,3 +843,7 @@ All notable changes are documented here.
 - perf: cache embeddings for repeated identical queries
 
 
+### 2023-12-01
+- test: add integration test for Trigger.dev job definition
+
+
