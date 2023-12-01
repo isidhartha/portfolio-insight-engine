@@ -839,3 +839,7 @@ All notable changes are documented here.
 - docs: document portfolio CSV format with example
 
 
+### 2023-12-01
+- perf: cache embeddings for repeated identical queries
+
+
