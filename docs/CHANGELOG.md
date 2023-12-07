@@ -15,3 +15,7 @@ All notable changes are documented here.
 - docs: document all required environment variables
 
 
+### 2022-02-02
+- feat: implement FastF1 Python subprocess integration
+
+
