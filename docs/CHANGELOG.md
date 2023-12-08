@@ -19,3 +19,7 @@ All notable changes are documented here.
 - feat: implement FastF1 Python subprocess integration
 
 
+### 2022-02-09
+- fix: resolve job retry causing duplicate email delivery
+
+
