@@ -23,3 +23,7 @@ All notable changes are documented here.
 - fix: resolve job retry causing duplicate email delivery
 
 
+### 2022-02-10
+- chore: add husky pre-commit hooks for lint and format
+
+
