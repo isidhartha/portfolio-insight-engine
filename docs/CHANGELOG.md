@@ -31,3 +31,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2022-02-21
+- fix: resolve HTML entity encoding in email template
+
+
