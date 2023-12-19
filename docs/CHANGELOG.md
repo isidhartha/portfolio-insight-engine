@@ -39,3 +39,7 @@ All notable changes are documented here.
 - fix: handle incomplete FastF1 data for cancelled races
 
 
+### 2022-03-01
+- fix: fix email subject encoding for special characters
+
+
