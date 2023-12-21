@@ -43,3 +43,7 @@ All notable changes are documented here.
 - fix: fix email subject encoding for special characters
 
 
+### 2022-03-03
+- feat: implement Resend email dispatch with HTML template
+
+
