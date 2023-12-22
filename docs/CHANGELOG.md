@@ -47,3 +47,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2022-03-03
+- feat: implement FastF1 Python subprocess integration
+
+
