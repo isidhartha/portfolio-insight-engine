@@ -867,3 +867,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2023-12-29
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
