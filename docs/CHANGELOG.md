@@ -51,3 +51,7 @@ All notable changes are documented here.
 - feat: implement FastF1 Python subprocess integration
 
 
+### 2022-03-04
+- docs: add RAG pipeline explanation to architecture.md
+
+
