@@ -883,3 +883,7 @@ All notable changes are documented here.
 - fix: resolve job retry causing duplicate email delivery
 
 
+### 2024-01-10
+- feat: implement structured JSON logging for all operations
+
+
