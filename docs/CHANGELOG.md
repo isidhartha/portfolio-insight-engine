@@ -67,3 +67,7 @@ All notable changes are documented here.
 - feat: implement performance comparison vs benchmark
 
 
+### 2022-03-16
+- chore: update TypeScript to 5.4
+
+
