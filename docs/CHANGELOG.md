@@ -891,3 +891,7 @@ All notable changes are documented here.
 - feat: add vector store integration for context retrieval
 
 
+### 2024-01-16
+- feat: add OpenAI GPT-4o integration for content generation
+
+
