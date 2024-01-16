@@ -71,3 +71,7 @@ All notable changes are documented here.
 - chore: update TypeScript to 5.4
 
 
+### 2022-03-16
+- refactor: extract all prompt templates to constants file
+
+
