@@ -899,3 +899,7 @@ All notable changes are documented here.
 - fix: resolve job retry causing duplicate email delivery
 
 
+### 2024-01-20
+- feat: add vector store integration for context retrieval
+
+
