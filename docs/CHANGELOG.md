@@ -91,3 +91,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2022-04-06
+- feat: add sector allocation breakdown in portfolio report
+
+
