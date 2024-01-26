@@ -99,3 +99,7 @@ All notable changes are documented here.
 - fix: handle empty vector store gracefully on first query
 
 
+### 2022-04-14
+- docs: add RAG pipeline explanation to architecture.md
+
+
