@@ -903,3 +903,7 @@ All notable changes are documented here.
 - feat: add vector store integration for context retrieval
 
 
+### 2024-01-30
+- docs: document all required environment variables
+
+
