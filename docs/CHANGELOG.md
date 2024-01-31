@@ -107,3 +107,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2022-04-18
+- fix: handle yFinance symbol not found error gracefully
+
+
