@@ -111,3 +111,7 @@ All notable changes are documented here.
 - fix: handle yFinance symbol not found error gracefully
 
 
+### 2022-04-19
+- feat: implement top-K context retrieval by cosine similarity
+
+
