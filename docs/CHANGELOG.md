@@ -915,3 +915,7 @@ All notable changes are documented here.
 - fix: handle Resend API rate limiting with retry logic
 
 
+### 2024-02-08
+- chore: update TypeScript to 5.4
+
+
