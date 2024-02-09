@@ -919,3 +919,7 @@ All notable changes are documented here.
 - chore: update TypeScript to 5.4
 
 
+### 2024-02-09
+- feat: implement HTML email template with performance tables
+
+
