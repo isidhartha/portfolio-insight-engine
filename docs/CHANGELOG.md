@@ -923,3 +923,7 @@ All notable changes are documented here.
 - feat: implement HTML email template with performance tables
 
 
+### 2024-02-10
+- feat: implement structured JSON logging for all operations
+
+
