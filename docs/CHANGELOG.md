@@ -147,3 +147,7 @@ All notable changes are documented here.
 - feat: implement CLI for ingest and query commands
 
 
+### 2022-05-12
+- fix: handle empty vector store gracefully on first query
+
+
