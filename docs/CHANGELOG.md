@@ -163,3 +163,7 @@ All notable changes are documented here.
 - test: add email template rendering snapshot test
 
 
+### 2022-05-19
+- feat: add weekly cron schedule via Trigger.dev API
+
+
