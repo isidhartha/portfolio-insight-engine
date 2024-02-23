@@ -935,3 +935,7 @@ All notable changes are documented here.
 - feat: implement structured race summary prompt template
 
 
+### 2024-02-23
+- feat: implement OpenAI embeddings for semantic indexing
+
+
