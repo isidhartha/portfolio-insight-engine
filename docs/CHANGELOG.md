@@ -939,3 +939,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2024-02-28
+- refactor: extract chunking logic into reusable utility
+
+
