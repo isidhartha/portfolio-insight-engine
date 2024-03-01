@@ -179,3 +179,7 @@ All notable changes are documented here.
 - feat: implement HTML email template with performance tables
 
 
+### 2022-05-30
+- feat: add chart image generation and email attachment
+
+
