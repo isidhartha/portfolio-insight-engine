@@ -947,3 +947,7 @@ All notable changes are documented here.
 - test: add email template rendering snapshot test
 
 
+### 2024-03-04
+- test: add Zod schema validation tests
+
+
