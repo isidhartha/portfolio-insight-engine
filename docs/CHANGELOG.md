@@ -955,3 +955,7 @@ All notable changes are documented here.
 - feat: add race data JSON parsing with Zod schema
 
 
+### 2024-03-07
+- feat: add GPT-4o answer generation with source citations
+
+
