@@ -191,3 +191,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2022-06-23
+- feat: add Zod validation for all job input and output types
+
+
