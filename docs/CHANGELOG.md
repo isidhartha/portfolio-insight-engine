@@ -199,3 +199,7 @@ All notable changes are documented here.
 - fix: handle incomplete FastF1 data for cancelled races
 
 
+### 2022-07-04
+- chore: update openai package to latest stable
+
+
