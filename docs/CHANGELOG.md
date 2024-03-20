@@ -223,3 +223,7 @@ All notable changes are documented here.
 - feat: add webhook trigger support alongside scheduled runs
 
 
+### 2022-07-14
+- feat: implement dry-run mode for testing without email send
+
+
