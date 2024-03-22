@@ -231,3 +231,7 @@ All notable changes are documented here.
 - test: add unit tests for portfolio CSV parser
 
 
+### 2022-07-22
+- fix: resolve HTML entity encoding in email template
+
+
