@@ -247,3 +247,7 @@ All notable changes are documented here.
 - refactor: extract HTML email template to separate module
 
 
+### 2022-08-01
+- feat: implement RAG document ingestion pipeline
+
+
