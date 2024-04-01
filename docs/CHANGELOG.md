@@ -975,3 +975,7 @@ All notable changes are documented here.
 - feat: add OpenAI GPT-4o integration for content generation
 
 
+### 2024-04-01
+- refactor: separate data fetching from job orchestration
+
+
