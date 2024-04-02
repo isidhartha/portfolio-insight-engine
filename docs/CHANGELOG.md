@@ -255,3 +255,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2022-08-02
+- fix: resolve FastF1 subprocess timeout with configurable limit
+
+
