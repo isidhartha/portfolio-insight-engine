@@ -979,3 +979,7 @@ All notable changes are documented here.
 - refactor: separate data fetching from job orchestration
 
 
+### 2024-04-05
+- docs: update docs/API.md with job input and output schema
+
+
