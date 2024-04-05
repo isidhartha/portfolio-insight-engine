@@ -263,3 +263,7 @@ All notable changes are documented here.
 - test: add unit tests for portfolio CSV parser
 
 
+### 2022-08-14
+- perf: reduce HTML email template render time
+
+
