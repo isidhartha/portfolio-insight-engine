@@ -275,3 +275,7 @@ All notable changes are documented here.
 - docs: update docs/API.md with job input and output schema
 
 
+### 2022-08-16
+- docs: add RAG pipeline explanation to architecture.md
+
+
