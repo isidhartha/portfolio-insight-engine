@@ -287,3 +287,7 @@ All notable changes are documented here.
 - feat: implement dry-run mode for testing without email send
 
 
+### 2022-08-28
+- feat: implement RAG document ingestion pipeline
+
+
