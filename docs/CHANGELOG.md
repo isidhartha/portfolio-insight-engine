@@ -295,3 +295,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2022-08-30
+- feat: implement dry-run mode for testing without email send
+
+
