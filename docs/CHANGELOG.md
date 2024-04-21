@@ -1003,3 +1003,7 @@ All notable changes are documented here.
 - perf: reduce HTML email template render time
 
 
+### 2024-04-21
+- fix: resolve HTML entity encoding in email template
+
+
