@@ -303,3 +303,7 @@ All notable changes are documented here.
 - docs: document portfolio CSV format with example
 
 
+### 2022-09-12
+- test: add Zod schema validation tests
+
+
