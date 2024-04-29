@@ -315,3 +315,7 @@ All notable changes are documented here.
 - docs: update README with Trigger.dev setup walkthrough
 
 
+### 2022-09-15
+- feat: implement yfin.dev price fetch per ticker symbol
+
+
