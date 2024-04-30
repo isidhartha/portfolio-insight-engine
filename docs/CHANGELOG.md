@@ -319,3 +319,7 @@ All notable changes are documented here.
 - feat: implement yfin.dev price fetch per ticker symbol
 
 
+### 2022-09-18
+- feat: implement structured JSON logging for all operations
+
+
