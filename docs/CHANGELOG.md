@@ -327,3 +327,7 @@ All notable changes are documented here.
 - feat: add Zod validation for all job input and output types
 
 
+### 2022-09-20
+- chore: update openai package to latest stable
+
+
