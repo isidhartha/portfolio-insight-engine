@@ -1011,3 +1011,7 @@ All notable changes are documented here.
 - feat: add portfolio CSV parser and Zod schema validation
 
 
+### 2024-05-04
+- fix: resolve job retry causing duplicate email delivery
+
+
