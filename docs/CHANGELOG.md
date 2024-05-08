@@ -331,3 +331,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2022-09-22
+- fix: handle yFinance symbol not found error gracefully
+
+
