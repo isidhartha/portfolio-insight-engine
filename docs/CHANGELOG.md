@@ -335,3 +335,7 @@ All notable changes are documented here.
 - fix: handle yFinance symbol not found error gracefully
 
 
+### 2022-09-24
+- feat: add chart image generation and email attachment
+
+
