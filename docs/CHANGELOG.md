@@ -343,3 +343,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging for all operations
 
 
+### 2022-10-02
+- feat: add environment variable validation on startup
+
+
