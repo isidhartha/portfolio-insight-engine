@@ -1015,3 +1015,7 @@ All notable changes are documented here.
 - fix: resolve job retry causing duplicate email delivery
 
 
+### 2024-05-13
+- chore: configure tsconfig strict mode
+
+
