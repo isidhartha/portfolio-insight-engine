@@ -1019,3 +1019,7 @@ All notable changes are documented here.
 - chore: configure tsconfig strict mode
 
 
+### 2024-05-16
+- refactor: move Zod schemas to dedicated types.ts file
+
+
