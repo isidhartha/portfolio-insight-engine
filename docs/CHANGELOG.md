@@ -367,3 +367,7 @@ All notable changes are documented here.
 - style: fix eslint violations across job handlers
 
 
+### 2022-10-18
+- test: add email template rendering snapshot test
+
+
