@@ -1031,3 +1031,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2024-05-23
+- fix: handle incomplete FastF1 data for cancelled races
+
+
