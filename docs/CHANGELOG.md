@@ -371,3 +371,7 @@ All notable changes are documented here.
 - test: add email template rendering snapshot test
 
 
+### 2022-10-20
+- fix: handle missing race data for sprint race weekends
+
+
