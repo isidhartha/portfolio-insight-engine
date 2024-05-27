@@ -375,3 +375,7 @@ All notable changes are documented here.
 - fix: handle missing race data for sprint race weekends
 
 
+### 2022-10-24
+- feat: add weekly cron schedule via Trigger.dev API
+
+
