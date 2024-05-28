@@ -1035,3 +1035,7 @@ All notable changes are documented here.
 - fix: handle incomplete FastF1 data for cancelled races
 
 
+### 2024-05-28
+- fix: handle cold-start API key validation failure
+
+
