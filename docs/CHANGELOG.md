@@ -383,3 +383,7 @@ All notable changes are documented here.
 - feat: add GPT-4o answer generation with source citations
 
 
+### 2022-11-05
+- feat: add vector store integration for context retrieval
+
+
