@@ -391,3 +391,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2022-11-19
+- chore: pin trigger.dev packages to stable release
+
+
