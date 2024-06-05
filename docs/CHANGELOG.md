@@ -399,3 +399,7 @@ All notable changes are documented here.
 - feat: implement Trigger.dev scheduled job scaffold
 
 
+### 2022-11-28
+- feat: implement HTML email template with performance tables
+
+
