@@ -1043,3 +1043,7 @@ All notable changes are documented here.
 - feat: implement FastF1 Python subprocess integration
 
 
+### 2024-06-05
+- feat: add Zod validation for all job input and output types
+
+
