@@ -407,3 +407,7 @@ All notable changes are documented here.
 - feat: add configurable text chunking with overlap
 
 
+### 2022-11-28
+- fix: handle yFinance symbol not found error gracefully
+
+
