@@ -415,3 +415,7 @@ All notable changes are documented here.
 - perf: reduce HTML email template render time
 
 
+### 2022-12-10
+- fix: resolve FastF1 subprocess timeout with configurable limit
+
+
