@@ -419,3 +419,7 @@ All notable changes are documented here.
 - fix: resolve FastF1 subprocess timeout with configurable limit
 
 
+### 2022-12-11
+- feat: add Zod validation for all job input and output types
+
+
