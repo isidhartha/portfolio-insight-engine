@@ -1047,3 +1047,7 @@ All notable changes are documented here.
 - feat: add Zod validation for all job input and output types
 
 
+### 2024-06-13
+- perf: implement parallel ticker fetching with Promise.all
+
+
