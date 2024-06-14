@@ -423,3 +423,7 @@ All notable changes are documented here.
 - feat: add Zod validation for all job input and output types
 
 
+### 2022-12-17
+- test: add integration test for Trigger.dev job definition
+
+
