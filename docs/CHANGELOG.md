@@ -427,3 +427,7 @@ All notable changes are documented here.
 - test: add integration test for Trigger.dev job definition
 
 
+### 2022-12-19
+- feat: add sector allocation breakdown in portfolio report
+
+
