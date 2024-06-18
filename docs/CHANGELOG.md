@@ -1055,3 +1055,7 @@ All notable changes are documented here.
 - refactor: separate data fetching from job orchestration
 
 
+### 2024-06-18
+- fix: fix text chunking at Unicode character boundaries
+
+
