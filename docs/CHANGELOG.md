@@ -431,3 +431,7 @@ All notable changes are documented here.
 - feat: add sector allocation breakdown in portfolio report
 
 
+### 2022-12-23
+- docs: update README with Trigger.dev setup walkthrough
+
+
