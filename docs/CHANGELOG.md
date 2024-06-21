@@ -1059,3 +1059,7 @@ All notable changes are documented here.
 - fix: fix text chunking at Unicode character boundaries
 
 
+### 2024-06-21
+- chore: add husky pre-commit hooks for lint and format
+
+
