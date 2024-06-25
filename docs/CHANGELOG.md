@@ -1063,3 +1063,7 @@ All notable changes are documented here.
 - chore: add husky pre-commit hooks for lint and format
 
 
+### 2024-06-25
+- feat: implement OpenAI embeddings for semantic indexing
+
+
