@@ -447,3 +447,7 @@ All notable changes are documented here.
 - fix: fix Zod union type validation for optional fields
 
 
+### 2022-12-30
+- fix: resolve HTML entity encoding in email template
+
+
