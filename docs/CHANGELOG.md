@@ -1067,3 +1067,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2024-06-28
+- fix: resolve job retry causing duplicate email delivery
+
+
