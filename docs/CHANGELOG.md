@@ -1075,3 +1075,7 @@ All notable changes are documented here.
 - refactor: separate ingest and query into distinct CLI commands
 
 
+### 2024-07-02
+- feat: add vector store integration for context retrieval
+
+
