@@ -459,3 +459,7 @@ All notable changes are documented here.
 - feat: implement HTML email template with performance tables
 
 
+### 2023-01-09
+- refactor: separate ingest and query into distinct CLI commands
+
+
