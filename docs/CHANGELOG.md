@@ -463,3 +463,7 @@ All notable changes are documented here.
 - refactor: separate ingest and query into distinct CLI commands
 
 
+### 2023-01-12
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
