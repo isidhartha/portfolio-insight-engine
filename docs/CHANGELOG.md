@@ -471,3 +471,7 @@ All notable changes are documented here.
 - docs: update README with Trigger.dev setup walkthrough
 
 
+### 2023-01-19
+- feat: add webhook trigger support alongside scheduled runs
+
+
