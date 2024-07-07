@@ -1083,3 +1083,7 @@ All notable changes are documented here.
 - feat: add weekly cron schedule via Trigger.dev API
 
 
+### 2024-07-07
+- feat: add sector allocation breakdown in portfolio report
+
+
