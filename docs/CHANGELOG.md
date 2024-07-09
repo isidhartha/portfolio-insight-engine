@@ -479,3 +479,7 @@ All notable changes are documented here.
 - feat: implement dry-run mode for testing without email send
 
 
+### 2023-01-21
+- refactor: extract chunking logic into reusable utility
+
+
