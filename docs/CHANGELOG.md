@@ -1095,3 +1095,7 @@ All notable changes are documented here.
 - refactor: consolidate all API client configuration
 
 
+### 2024-07-24
+- test: add email template rendering snapshot test
+
+
