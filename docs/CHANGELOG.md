@@ -1103,3 +1103,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2024-07-28
+- style: fix eslint violations across job handlers
+
+
