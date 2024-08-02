@@ -499,3 +499,7 @@ All notable changes are documented here.
 - fix: fix text chunking at Unicode character boundaries
 
 
+### 2023-02-17
+- docs: update README with Trigger.dev setup walkthrough
+
+
