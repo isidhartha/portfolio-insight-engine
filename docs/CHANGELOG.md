@@ -503,3 +503,7 @@ All notable changes are documented here.
 - docs: update README with Trigger.dev setup walkthrough
 
 
+### 2023-02-17
+- feat: add weekly cron schedule via Trigger.dev API
+
+
