@@ -1123,3 +1123,7 @@ All notable changes are documented here.
 - test: add email template rendering snapshot test
 
 
+### 2024-08-08
+- feat: implement yfin.dev price fetch per ticker symbol
+
+
