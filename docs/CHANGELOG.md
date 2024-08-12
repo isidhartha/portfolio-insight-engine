@@ -519,3 +519,7 @@ All notable changes are documented here.
 - test: add email template rendering snapshot test
 
 
+### 2023-02-24
+- feat: add chart image generation and email attachment
+
+
