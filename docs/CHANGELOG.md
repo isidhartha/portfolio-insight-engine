@@ -1131,3 +1131,7 @@ All notable changes are documented here.
 - feat: add GPT-4o answer generation with source citations
 
 
+### 2024-08-16
+- feat: add environment variable validation on startup
+
+
