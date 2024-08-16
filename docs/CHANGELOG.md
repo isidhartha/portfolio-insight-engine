@@ -1135,3 +1135,7 @@ All notable changes are documented here.
 - feat: add environment variable validation on startup
 
 
+### 2024-08-16
+- refactor: consolidate error handling into middleware wrapper
+
+
