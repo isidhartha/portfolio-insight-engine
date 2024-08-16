@@ -1139,3 +1139,7 @@ All notable changes are documented here.
 - refactor: consolidate error handling into middleware wrapper
 
 
+### 2024-08-16
+- chore: update TypeScript to 5.4
+
+
