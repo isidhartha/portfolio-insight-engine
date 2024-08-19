@@ -539,3 +539,7 @@ All notable changes are documented here.
 - feat: add exponential backoff retry for API failures
 
 
+### 2023-03-14
+- feat: implement OpenAI embeddings for semantic indexing
+
+
