@@ -1143,3 +1143,7 @@ All notable changes are documented here.
 - chore: update TypeScript to 5.4
 
 
+### 2024-08-21
+- feat: add portfolio CSV parser and Zod schema validation
+
+
