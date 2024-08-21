@@ -543,3 +543,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2023-03-17
+- fix: handle empty vector store gracefully on first query
+
+
