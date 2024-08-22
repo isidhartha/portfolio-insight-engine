@@ -547,3 +547,7 @@ All notable changes are documented here.
 - fix: handle empty vector store gracefully on first query
 
 
+### 2023-03-20
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
