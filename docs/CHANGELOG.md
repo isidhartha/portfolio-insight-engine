@@ -551,3 +551,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2023-03-20
+- style: fix eslint violations across job handlers
+
+
