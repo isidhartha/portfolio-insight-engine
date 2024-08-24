@@ -1147,3 +1147,7 @@ All notable changes are documented here.
 - feat: add portfolio CSV parser and Zod schema validation
 
 
+### 2024-08-24
+- feat: add Zod validation for all job input and output types
+
+
