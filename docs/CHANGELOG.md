@@ -563,3 +563,7 @@ All notable changes are documented here.
 - feat: add Zod validation for all job input and output types
 
 
+### 2023-04-17
+- chore: configure tsconfig strict mode
+
+
