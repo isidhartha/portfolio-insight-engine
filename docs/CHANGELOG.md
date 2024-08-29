@@ -1151,3 +1151,7 @@ All notable changes are documented here.
 - feat: add Zod validation for all job input and output types
 
 
+### 2024-08-29
+- chore: update TypeScript to 5.4
+
+
