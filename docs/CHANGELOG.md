@@ -571,3 +571,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2023-04-17
+- chore: update openai package to latest stable
+
+
