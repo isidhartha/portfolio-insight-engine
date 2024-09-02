@@ -1159,3 +1159,7 @@ All notable changes are documented here.
 - fix: fix timestamp formatting in email footer
 
 
+### 2024-09-02
+- feat: implement OpenAI embeddings for semantic indexing
+
+
