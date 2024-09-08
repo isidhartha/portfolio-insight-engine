@@ -1171,3 +1171,7 @@ All notable changes are documented here.
 - feat: add portfolio CSV parser and Zod schema validation
 
 
+### 2024-09-08
+- refactor: extract HTML email template to separate module
+
+
