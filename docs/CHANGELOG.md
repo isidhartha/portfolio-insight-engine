@@ -1179,3 +1179,7 @@ All notable changes are documented here.
 - fix: handle empty vector store gracefully on first query
 
 
+### 2024-09-09
+- feat: add vector store integration for context retrieval
+
+
