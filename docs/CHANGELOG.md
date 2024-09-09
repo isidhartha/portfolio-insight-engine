@@ -1175,3 +1175,7 @@ All notable changes are documented here.
 - refactor: extract HTML email template to separate module
 
 
+### 2024-09-09
+- fix: handle empty vector store gracefully on first query
+
+
