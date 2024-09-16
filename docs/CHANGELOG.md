@@ -607,3 +607,7 @@ All notable changes are documented here.
 - fix: fix Zod union type validation for optional fields
 
 
+### 2023-05-23
+- chore: update openai package to latest stable
+
+
