@@ -1195,3 +1195,7 @@ All notable changes are documented here.
 - feat: implement yfin.dev price fetch per ticker symbol
 
 
+### 2024-09-20
+- refactor: move Zod schemas to dedicated types.ts file
+
+
