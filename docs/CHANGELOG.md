@@ -619,3 +619,7 @@ All notable changes are documented here.
 - feat: add exponential backoff retry for API failures
 
 
+### 2023-05-29
+- feat: implement yfin.dev price fetch per ticker symbol
+
+
