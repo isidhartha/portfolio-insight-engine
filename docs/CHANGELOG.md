@@ -623,3 +623,7 @@ All notable changes are documented here.
 - feat: implement yfin.dev price fetch per ticker symbol
 
 
+### 2023-06-01
+- feat: add chart image generation and email attachment
+
+
