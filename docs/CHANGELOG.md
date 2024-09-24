@@ -627,3 +627,7 @@ All notable changes are documented here.
 - feat: add chart image generation and email attachment
 
 
+### 2023-06-07
+- feat: add race data JSON parsing with Zod schema
+
+
