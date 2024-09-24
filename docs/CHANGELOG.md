@@ -1199,3 +1199,7 @@ All notable changes are documented here.
 - refactor: move Zod schemas to dedicated types.ts file
 
 
+### 2024-09-24
+- feat: add exponential backoff retry for API failures
+
+
