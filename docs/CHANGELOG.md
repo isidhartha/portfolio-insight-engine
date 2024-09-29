@@ -639,3 +639,7 @@ All notable changes are documented here.
 - feat: implement performance comparison vs benchmark
 
 
+### 2023-06-13
+- fix: handle missing race data for sprint race weekends
+
+
