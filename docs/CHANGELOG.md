@@ -651,3 +651,7 @@ All notable changes are documented here.
 - docs: update README with Trigger.dev setup walkthrough
 
 
+### 2023-06-16
+- test: add mock-based test for OpenAI API call
+
+
