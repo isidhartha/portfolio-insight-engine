@@ -655,3 +655,7 @@ All notable changes are documented here.
 - test: add mock-based test for OpenAI API call
 
 
+### 2023-06-19
+- docs: add RAG pipeline explanation to architecture.md
+
+
