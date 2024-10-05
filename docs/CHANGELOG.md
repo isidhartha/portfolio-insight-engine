@@ -1203,3 +1203,7 @@ All notable changes are documented here.
 - feat: add exponential backoff retry for API failures
 
 
+### 2024-10-05
+- perf: cache embeddings for repeated identical queries
+
+
