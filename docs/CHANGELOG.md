@@ -1207,3 +1207,7 @@ All notable changes are documented here.
 - perf: cache embeddings for repeated identical queries
 
 
+### 2024-10-14
+- refactor: separate ingest and query into distinct CLI commands
+
+
