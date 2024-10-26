@@ -1219,3 +1219,7 @@ All notable changes are documented here.
 - feat: implement HTML email template with performance tables
 
 
+### 2024-10-26
+- docs: add email template customisation guide
+
+
