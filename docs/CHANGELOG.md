@@ -1231,3 +1231,7 @@ All notable changes are documented here.
 - fix: resolve FastF1 subprocess timeout with configurable limit
 
 
+### 2024-10-29
+- feat: implement FastF1 Python subprocess integration
+
+
