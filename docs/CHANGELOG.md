@@ -707,3 +707,7 @@ All notable changes are documented here.
 - refactor: separate ingest and query into distinct CLI commands
 
 
+### 2023-07-18
+- fix: handle yFinance symbol not found error gracefully
+
+
