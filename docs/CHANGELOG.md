@@ -711,3 +711,7 @@ All notable changes are documented here.
 - fix: handle yFinance symbol not found error gracefully
 
 
+### 2023-07-23
+- feat: add race data JSON parsing with Zod schema
+
+
