@@ -723,3 +723,7 @@ All notable changes are documented here.
 - style: fix eslint violations across job handlers
 
 
+### 2023-08-06
+- refactor: consolidate all API client configuration
+
+
