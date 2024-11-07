@@ -727,3 +727,7 @@ All notable changes are documented here.
 - refactor: consolidate all API client configuration
 
 
+### 2023-08-15
+- chore: update openai package to latest stable
+
+
