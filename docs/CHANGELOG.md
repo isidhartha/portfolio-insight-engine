@@ -1251,3 +1251,7 @@ All notable changes are documented here.
 - chore: update TypeScript to 5.4
 
 
+### 2024-11-07
+- refactor: consolidate all API client configuration
+
+
