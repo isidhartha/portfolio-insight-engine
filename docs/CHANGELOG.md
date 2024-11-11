@@ -1255,3 +1255,7 @@ All notable changes are documented here.
 - refactor: consolidate all API client configuration
 
 
+### 2024-11-11
+- refactor: extract all prompt templates to constants file
+
+
