@@ -743,3 +743,7 @@ All notable changes are documented here.
 - feat: implement structured race summary prompt template
 
 
+### 2023-08-23
+- feat: implement dry-run mode for testing without email send
+
+
