@@ -759,3 +759,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2023-09-11
+- feat: implement RAG document ingestion pipeline
+
+
