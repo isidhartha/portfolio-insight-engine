@@ -763,3 +763,7 @@ All notable changes are documented here.
 - feat: implement RAG document ingestion pipeline
 
 
+### 2023-09-13
+- feat: add race data JSON parsing with Zod schema
+
+
