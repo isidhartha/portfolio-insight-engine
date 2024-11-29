@@ -1267,3 +1267,7 @@ All notable changes are documented here.
 - feat: implement top-K context retrieval by cosine similarity
 
 
+### 2024-11-29
+- feat: add OpenAI GPT-4o integration for content generation
+
+
