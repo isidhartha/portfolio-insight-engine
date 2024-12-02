@@ -1275,3 +1275,7 @@ All notable changes are documented here.
 - feat: implement CLI for ingest and query commands
 
 
+### 2024-12-02
+- feat: add sector allocation breakdown in portfolio report
+
+
