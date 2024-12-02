@@ -783,3 +783,7 @@ All notable changes are documented here.
 - refactor: consolidate error handling into middleware wrapper
 
 
+### 2023-10-06
+- feat: implement Trigger.dev scheduled job scaffold
+
+
