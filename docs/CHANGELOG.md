@@ -791,3 +791,7 @@ All notable changes are documented here.
 - feat: add configurable text chunking with overlap
 
 
+### 2023-10-06
+- perf: cache embeddings for repeated identical queries
+
+
