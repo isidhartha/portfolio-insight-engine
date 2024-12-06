@@ -795,3 +795,7 @@ All notable changes are documented here.
 - perf: cache embeddings for repeated identical queries
 
 
+### 2023-10-17
+- feat: add GPT-4o answer generation with source citations
+
+
