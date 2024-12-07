@@ -1279,3 +1279,7 @@ All notable changes are documented here.
 - feat: add sector allocation breakdown in portfolio report
 
 
+### 2024-12-07
+- fix: handle cold-start API key validation failure
+
+
