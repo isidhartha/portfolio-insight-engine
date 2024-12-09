@@ -1283,3 +1283,7 @@ All notable changes are documented here.
 - fix: handle cold-start API key validation failure
 
 
+### 2024-12-09
+- fix: fix email subject encoding for special characters
+
+
