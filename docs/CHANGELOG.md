@@ -1287,3 +1287,7 @@ All notable changes are documented here.
 - fix: fix email subject encoding for special characters
 
 
+### 2024-12-09
+- perf: reduce HTML email template render time
+
+
