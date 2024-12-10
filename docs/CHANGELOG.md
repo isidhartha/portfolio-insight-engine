@@ -803,3 +803,7 @@ All notable changes are documented here.
 - test: add mock-based test for OpenAI API call
 
 
+### 2023-10-24
+- fix: fix text chunking at Unicode character boundaries
+
+
