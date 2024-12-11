@@ -807,3 +807,7 @@ All notable changes are documented here.
 - fix: fix text chunking at Unicode character boundaries
 
 
+### 2023-10-25
+- feat: implement Resend email dispatch with HTML template
+
+
