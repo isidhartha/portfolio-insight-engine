@@ -1295,3 +1295,7 @@ All notable changes are documented here.
 - fix: handle missing race data for sprint race weekends
 
 
+### 2024-12-14
+- style: run prettier on all TypeScript source files
+
+
