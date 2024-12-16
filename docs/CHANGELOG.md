@@ -1299,3 +1299,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2024-12-16
+- docs: document all required environment variables
+
+
