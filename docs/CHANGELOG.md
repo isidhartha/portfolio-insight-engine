@@ -815,3 +815,7 @@ All notable changes are documented here.
 - fix: resolve race condition in parallel ticker fetch
 
 
+### 2023-11-08
+- feat: add configurable text chunking with overlap
+
+
