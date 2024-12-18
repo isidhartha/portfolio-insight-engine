@@ -1303,3 +1303,7 @@ All notable changes are documented here.
 - docs: document all required environment variables
 
 
+### 2024-12-18
+- refactor: extract HTML email template to separate module
+
+
