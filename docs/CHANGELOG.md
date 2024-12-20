@@ -823,3 +823,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2023-11-10
+- style: run prettier on all TypeScript source files
+
+
