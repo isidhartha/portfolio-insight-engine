@@ -1315,3 +1315,7 @@ All notable changes are documented here.
 - feat: add sector allocation breakdown in portfolio report
 
 
+### 2024-12-24
+- feat: implement performance comparison vs benchmark
+
+
