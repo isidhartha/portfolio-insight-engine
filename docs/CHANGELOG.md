@@ -1323,3 +1323,7 @@ All notable changes are documented here.
 - test: add Zod schema validation tests
 
 
+### 2025-01-05
+- feat: add Zod validation for all job input and output types
+
+
