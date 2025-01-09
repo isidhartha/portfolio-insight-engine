@@ -831,3 +831,7 @@ All notable changes are documented here.
 - fix: resolve race condition in parallel ticker fetch
 
 
+### 2023-11-22
+- refactor: extract chunking logic into reusable utility
+
+
