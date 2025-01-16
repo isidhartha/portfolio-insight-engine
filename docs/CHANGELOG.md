@@ -1331,3 +1331,7 @@ All notable changes are documented here.
 - fix: resolve race condition in parallel ticker fetch
 
 
+### 2025-01-16
+- fix: handle cold-start API key validation failure
+
+
