@@ -851,3 +851,7 @@ All notable changes are documented here.
 - chore: update TypeScript to 5.4
 
 
+### 2023-12-06
+- feat: implement structured race summary prompt template
+
+
