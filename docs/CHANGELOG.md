@@ -855,3 +855,7 @@ All notable changes are documented here.
 - feat: implement structured race summary prompt template
 
 
+### 2023-12-08
+- refactor: consolidate all API client configuration
+
+
