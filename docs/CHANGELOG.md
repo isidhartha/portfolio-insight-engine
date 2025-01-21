@@ -859,3 +859,7 @@ All notable changes are documented here.
 - refactor: consolidate all API client configuration
 
 
+### 2023-12-26
+- feat: add vector store integration for context retrieval
+
+
