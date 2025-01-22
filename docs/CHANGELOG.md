@@ -863,3 +863,7 @@ All notable changes are documented here.
 - feat: add vector store integration for context retrieval
 
 
+### 2023-12-26
+- feat: implement Resend email dispatch with HTML template
+
+
