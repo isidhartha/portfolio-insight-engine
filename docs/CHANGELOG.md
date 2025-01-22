@@ -1335,3 +1335,7 @@ All notable changes are documented here.
 - fix: handle cold-start API key validation failure
 
 
+### 2025-01-22
+- fix: resolve HTML entity encoding in email template
+
+
