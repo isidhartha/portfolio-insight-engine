@@ -871,3 +871,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2024-01-01
+- test: add integration test for Trigger.dev job definition
+
+
