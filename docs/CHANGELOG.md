@@ -875,3 +875,7 @@ All notable changes are documented here.
 - test: add integration test for Trigger.dev job definition
 
 
+### 2024-01-05
+- chore: update TypeScript to 5.4
+
+
