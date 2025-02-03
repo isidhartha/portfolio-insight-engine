@@ -887,3 +887,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging for all operations
 
 
+### 2024-01-11
+- feat: add vector store integration for context retrieval
+
+
