@@ -1339,3 +1339,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2025-02-03
+- feat: add OpenAI GPT-4o integration for content generation
+
+
