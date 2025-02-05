@@ -1347,3 +1347,7 @@ All notable changes are documented here.
 - feat: add sector allocation breakdown in portfolio report
 
 
+### 2025-02-05
+- feat: add chart image generation and email attachment
+
+
