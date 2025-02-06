@@ -895,3 +895,7 @@ All notable changes are documented here.
 - feat: add OpenAI GPT-4o integration for content generation
 
 
+### 2024-01-19
+- fix: resolve job retry causing duplicate email delivery
+
+
