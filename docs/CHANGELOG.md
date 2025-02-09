@@ -1351,3 +1351,7 @@ All notable changes are documented here.
 - feat: add chart image generation and email attachment
 
 
+### 2025-02-09
+- test: add integration test for Trigger.dev job definition
+
+
