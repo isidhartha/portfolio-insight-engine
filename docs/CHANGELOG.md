@@ -907,3 +907,7 @@ All notable changes are documented here.
 - docs: document all required environment variables
 
 
+### 2024-02-02
+- perf: reduce HTML email template render time
+
+
