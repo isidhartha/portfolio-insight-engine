@@ -1359,3 +1359,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2025-02-12
+- perf: reduce HTML email template render time
+
+
