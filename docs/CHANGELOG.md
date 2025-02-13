@@ -911,3 +911,7 @@ All notable changes are documented here.
 - perf: reduce HTML email template render time
 
 
+### 2024-02-03
+- fix: handle Resend API rate limiting with retry logic
+
+
