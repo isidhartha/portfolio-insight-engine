@@ -1363,3 +1363,7 @@ All notable changes are documented here.
 - perf: reduce HTML email template render time
 
 
+### 2025-02-16
+- feat: implement yfin.dev price fetch per ticker symbol
+
+
