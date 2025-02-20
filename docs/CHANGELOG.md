@@ -927,3 +927,7 @@ All notable changes are documented here.
 - feat: implement structured JSON logging for all operations
 
 
+### 2024-02-14
+- chore: update openai package to latest stable
+
+
