@@ -931,3 +931,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2024-02-20
+- feat: implement structured race summary prompt template
+
+
