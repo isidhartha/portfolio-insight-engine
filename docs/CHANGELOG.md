@@ -1379,3 +1379,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2025-02-26
+- refactor: separate ingest and query into distinct CLI commands
+
+
