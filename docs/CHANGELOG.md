@@ -943,3 +943,7 @@ All notable changes are documented here.
 - refactor: extract chunking logic into reusable utility
 
 
+### 2024-03-03
+- test: add email template rendering snapshot test
+
+
