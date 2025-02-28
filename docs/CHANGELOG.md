@@ -1383,3 +1383,7 @@ All notable changes are documented here.
 - refactor: separate ingest and query into distinct CLI commands
 
 
+### 2025-02-28
+- fix: handle incomplete FastF1 data for cancelled races
+
+
