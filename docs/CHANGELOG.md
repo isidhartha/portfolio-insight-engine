@@ -1387,3 +1387,7 @@ All notable changes are documented here.
 - fix: handle incomplete FastF1 data for cancelled races
 
 
+### 2025-03-03
+- feat: implement HTML email template with performance tables
+
+
