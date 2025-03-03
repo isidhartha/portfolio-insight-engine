@@ -951,3 +951,7 @@ All notable changes are documented here.
 - test: add Zod schema validation tests
 
 
+### 2024-03-06
+- feat: add race data JSON parsing with Zod schema
+
+
