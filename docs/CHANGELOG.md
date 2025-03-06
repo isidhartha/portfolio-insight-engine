@@ -959,3 +959,7 @@ All notable changes are documented here.
 - feat: add GPT-4o answer generation with source citations
 
 
+### 2024-03-27
+- fix: handle Resend API rate limiting with retry logic
+
+
