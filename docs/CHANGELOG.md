@@ -963,3 +963,7 @@ All notable changes are documented here.
 - fix: handle Resend API rate limiting with retry logic
 
 
+### 2024-03-27
+- feat: add race data JSON parsing with Zod schema
+
+
