@@ -971,3 +971,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2024-03-30
+- feat: add OpenAI GPT-4o integration for content generation
+
+
