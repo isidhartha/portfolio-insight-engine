@@ -983,3 +983,7 @@ All notable changes are documented here.
 - docs: update docs/API.md with job input and output schema
 
 
+### 2024-04-08
+- feat: implement RAG document ingestion pipeline
+
+
