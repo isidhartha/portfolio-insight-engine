@@ -987,3 +987,7 @@ All notable changes are documented here.
 - feat: implement RAG document ingestion pipeline
 
 
+### 2024-04-09
+- fix: resolve HTML entity encoding in email template
+
+
