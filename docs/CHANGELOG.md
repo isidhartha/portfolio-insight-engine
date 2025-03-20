@@ -991,3 +991,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2024-04-12
+- fix: resolve race condition in parallel ticker fetch
+
+
