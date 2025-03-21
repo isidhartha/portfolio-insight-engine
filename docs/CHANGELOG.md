@@ -1407,3 +1407,7 @@ All notable changes are documented here.
 - fix: fix timestamp formatting in email footer
 
 
+### 2025-03-21
+- test: add unit tests for portfolio CSV parser
+
+
