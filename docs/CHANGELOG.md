@@ -995,3 +995,7 @@ All notable changes are documented here.
 - fix: resolve race condition in parallel ticker fetch
 
 
+### 2024-04-18
+- fix: resolve FastF1 subprocess timeout with configurable limit
+
+
