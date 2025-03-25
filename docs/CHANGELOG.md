@@ -999,3 +999,7 @@ All notable changes are documented here.
 - fix: resolve FastF1 subprocess timeout with configurable limit
 
 
+### 2024-04-18
+- perf: reduce HTML email template render time
+
+
