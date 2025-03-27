@@ -1007,3 +1007,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2024-04-29
+- feat: add portfolio CSV parser and Zod schema validation
+
+
