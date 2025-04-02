@@ -1415,3 +1415,7 @@ All notable changes are documented here.
 - fix: fix timestamp formatting in email footer
 
 
+### 2025-04-02
+- fix: fix OpenAI token limit for long race summaries
+
+
