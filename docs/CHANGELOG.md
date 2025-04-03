@@ -1023,3 +1023,7 @@ All notable changes are documented here.
 - refactor: move Zod schemas to dedicated types.ts file
 
 
+### 2024-05-22
+- docs: add RAG pipeline explanation to architecture.md
+
+
