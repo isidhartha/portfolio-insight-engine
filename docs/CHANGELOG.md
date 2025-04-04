@@ -1027,3 +1027,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2024-05-23
+- fix: resolve HTML entity encoding in email template
+
+
