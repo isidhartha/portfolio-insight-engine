@@ -1039,3 +1039,7 @@ All notable changes are documented here.
 - fix: handle cold-start API key validation failure
 
 
+### 2024-05-29
+- feat: implement FastF1 Python subprocess integration
+
+
