@@ -1051,3 +1051,7 @@ All notable changes are documented here.
 - perf: implement parallel ticker fetching with Promise.all
 
 
+### 2024-06-14
+- refactor: separate data fetching from job orchestration
+
+
