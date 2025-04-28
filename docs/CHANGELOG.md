@@ -1079,3 +1079,7 @@ All notable changes are documented here.
 - feat: add vector store integration for context retrieval
 
 
+### 2024-07-06
+- feat: add weekly cron schedule via Trigger.dev API
+
+
