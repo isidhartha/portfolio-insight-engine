@@ -1443,3 +1443,7 @@ All notable changes are documented here.
 - feat: implement HTML email template with performance tables
 
 
+### 2025-04-30
+- feat: add vector store integration for context retrieval
+
+
