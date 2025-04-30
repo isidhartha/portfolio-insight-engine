@@ -1087,3 +1087,7 @@ All notable changes are documented here.
 - feat: add sector allocation breakdown in portfolio report
 
 
+### 2024-07-17
+- feat: implement RAG document ingestion pipeline
+
+
