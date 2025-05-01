@@ -1091,3 +1091,7 @@ All notable changes are documented here.
 - feat: implement RAG document ingestion pipeline
 
 
+### 2024-07-19
+- refactor: consolidate all API client configuration
+
+
