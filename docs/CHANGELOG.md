@@ -1447,3 +1447,7 @@ All notable changes are documented here.
 - feat: add vector store integration for context retrieval
 
 
+### 2025-05-03
+- feat: add chart image generation and email attachment
+
+
