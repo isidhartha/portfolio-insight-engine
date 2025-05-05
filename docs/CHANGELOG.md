@@ -1099,3 +1099,7 @@ All notable changes are documented here.
 - test: add email template rendering snapshot test
 
 
+### 2024-07-28
+- chore: update openai package to latest stable
+
+
