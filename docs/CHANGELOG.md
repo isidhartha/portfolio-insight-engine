@@ -1107,3 +1107,7 @@ All notable changes are documented here.
 - style: fix eslint violations across job handlers
 
 
+### 2024-07-29
+- fix: handle missing race data for sprint race weekends
+
+
