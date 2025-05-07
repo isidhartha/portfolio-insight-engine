@@ -1455,3 +1455,7 @@ All notable changes are documented here.
 - docs: add email template customisation guide
 
 
+### 2025-05-07
+- style: fix eslint violations across job handlers
+
+
