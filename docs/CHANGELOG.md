@@ -1115,3 +1115,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2024-07-31
+- chore: add husky pre-commit hooks for lint and format
+
+
