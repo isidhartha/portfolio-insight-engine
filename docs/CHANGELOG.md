@@ -1119,3 +1119,7 @@ All notable changes are documented here.
 - chore: add husky pre-commit hooks for lint and format
 
 
+### 2024-08-01
+- test: add email template rendering snapshot test
+
+
