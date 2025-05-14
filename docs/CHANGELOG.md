@@ -1459,3 +1459,7 @@ All notable changes are documented here.
 - style: fix eslint violations across job handlers
 
 
+### 2025-05-14
+- fix: resolve job retry causing duplicate email delivery
+
+
