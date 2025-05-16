@@ -1463,3 +1463,7 @@ All notable changes are documented here.
 - fix: resolve job retry causing duplicate email delivery
 
 
+### 2025-05-16
+- refactor: extract chunking logic into reusable utility
+
+
