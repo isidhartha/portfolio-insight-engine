@@ -1127,3 +1127,7 @@ All notable changes are documented here.
 - feat: implement yfin.dev price fetch per ticker symbol
 
 
+### 2024-08-10
+- feat: add GPT-4o answer generation with source citations
+
+
