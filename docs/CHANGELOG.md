@@ -1155,3 +1155,7 @@ All notable changes are documented here.
 - chore: update TypeScript to 5.4
 
 
+### 2024-09-01
+- fix: fix timestamp formatting in email footer
+
+
