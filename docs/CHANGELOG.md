@@ -1479,3 +1479,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2025-05-29
+- fix: resolve race condition in parallel ticker fetch
+
+
