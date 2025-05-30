@@ -1163,3 +1163,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2024-09-03
+- feat: add race data JSON parsing with Zod schema
+
+
