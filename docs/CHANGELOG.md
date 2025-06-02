@@ -1487,3 +1487,7 @@ All notable changes are documented here.
 - test: add email template rendering snapshot test
 
 
+### 2025-06-02
+- feat: implement top-K context retrieval by cosine similarity
+
+
