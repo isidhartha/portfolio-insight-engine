@@ -1495,3 +1495,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2025-06-03
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
