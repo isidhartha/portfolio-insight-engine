@@ -1499,3 +1499,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2025-06-08
+- refactor: consolidate error handling into middleware wrapper
+
+
