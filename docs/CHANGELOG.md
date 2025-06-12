@@ -1187,3 +1187,7 @@ All notable changes are documented here.
 - docs: add troubleshooting guide for common API errors
 
 
+### 2024-09-12
+- fix: fix email subject encoding for special characters
+
+
