@@ -1191,3 +1191,7 @@ All notable changes are documented here.
 - fix: fix email subject encoding for special characters
 
 
+### 2024-09-15
+- feat: implement yfin.dev price fetch per ticker symbol
+
+
