@@ -1507,3 +1507,7 @@ All notable changes are documented here.
 - feat: add environment variable validation on startup
 
 
+### 2025-06-17
+- chore: configure tsconfig strict mode
+
+
