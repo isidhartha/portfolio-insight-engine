@@ -1215,3 +1215,7 @@ All notable changes are documented here.
 - refactor: extract all prompt templates to constants file
 
 
+### 2024-10-25
+- feat: implement HTML email template with performance tables
+
+
