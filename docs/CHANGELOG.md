@@ -1223,3 +1223,7 @@ All notable changes are documented here.
 - docs: add email template customisation guide
 
 
+### 2024-10-28
+- test: add integration test for Trigger.dev job definition
+
+
