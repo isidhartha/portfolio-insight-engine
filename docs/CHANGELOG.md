@@ -1515,3 +1515,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2025-06-27
+- refactor: consolidate error handling into middleware wrapper
+
+
