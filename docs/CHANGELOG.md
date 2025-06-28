@@ -1227,3 +1227,7 @@ All notable changes are documented here.
 - test: add integration test for Trigger.dev job definition
 
 
+### 2024-10-28
+- fix: resolve FastF1 subprocess timeout with configurable limit
+
+
