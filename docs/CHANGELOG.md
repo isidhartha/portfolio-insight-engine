@@ -1235,3 +1235,7 @@ All notable changes are documented here.
 - feat: implement FastF1 Python subprocess integration
 
 
+### 2024-10-31
+- refactor: consolidate all API client configuration
+
+
