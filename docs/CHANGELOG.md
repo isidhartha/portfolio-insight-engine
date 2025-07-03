@@ -1239,3 +1239,7 @@ All notable changes are documented here.
 - refactor: consolidate all API client configuration
 
 
+### 2024-11-01
+- feat: add chart image generation and email attachment
+
+
