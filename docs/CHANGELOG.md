@@ -1531,3 +1531,7 @@ All notable changes are documented here.
 - fix: fix email subject encoding for special characters
 
 
+### 2025-07-14
+- perf: cache embeddings for repeated identical queries
+
+
