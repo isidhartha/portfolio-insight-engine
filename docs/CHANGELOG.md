@@ -1539,3 +1539,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2025-07-21
+- feat: add chart image generation and email attachment
+
+
