@@ -1259,3 +1259,7 @@ All notable changes are documented here.
 - refactor: extract all prompt templates to constants file
 
 
+### 2024-11-21
+- perf: reduce HTML email template render time
+
+
