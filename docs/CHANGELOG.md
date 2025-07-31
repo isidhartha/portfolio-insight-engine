@@ -1263,3 +1263,7 @@ All notable changes are documented here.
 - perf: reduce HTML email template render time
 
 
+### 2024-11-21
+- feat: implement top-K context retrieval by cosine similarity
+
+
