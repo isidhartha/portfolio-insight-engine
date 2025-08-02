@@ -1551,3 +1551,7 @@ All notable changes are documented here.
 - docs: add troubleshooting guide for common API errors
 
 
+### 2025-08-02
+- feat: add vector store integration for context retrieval
+
+
