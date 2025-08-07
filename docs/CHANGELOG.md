@@ -1563,3 +1563,7 @@ All notable changes are documented here.
 - feat: implement top-K context retrieval by cosine similarity
 
 
+### 2025-08-07
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
