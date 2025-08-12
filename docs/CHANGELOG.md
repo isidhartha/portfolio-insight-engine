@@ -1571,3 +1571,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2025-08-12
+- chore: update openai package to latest stable
+
+
