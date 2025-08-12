@@ -1291,3 +1291,7 @@ All notable changes are documented here.
 - perf: reduce HTML email template render time
 
 
+### 2024-12-13
+- fix: handle missing race data for sprint race weekends
+
+
