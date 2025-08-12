@@ -1567,3 +1567,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2025-08-12
+- style: run prettier on all TypeScript source files
+
+
