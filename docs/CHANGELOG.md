@@ -1579,3 +1579,7 @@ All notable changes are documented here.
 - feat: implement structured race summary prompt template
 
 
+### 2025-08-13
+- feat: add GPT-4o answer generation with source citations
+
+
