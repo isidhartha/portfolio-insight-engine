@@ -1583,3 +1583,7 @@ All notable changes are documented here.
 - feat: add GPT-4o answer generation with source citations
 
 
+### 2025-08-15
+- fix: resolve race condition in parallel ticker fetch
+
+
