@@ -1307,3 +1307,7 @@ All notable changes are documented here.
 - refactor: extract HTML email template to separate module
 
 
+### 2024-12-18
+- feat: add OpenAI GPT-4o integration for content generation
+
+
