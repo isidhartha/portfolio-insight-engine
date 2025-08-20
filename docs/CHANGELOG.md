@@ -1591,3 +1591,7 @@ All notable changes are documented here.
 - refactor: extract HTML email template to separate module
 
 
+### 2025-08-20
+- feat: add weekly cron schedule via Trigger.dev API
+
+
