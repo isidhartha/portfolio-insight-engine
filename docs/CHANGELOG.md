@@ -1595,3 +1595,7 @@ All notable changes are documented here.
 - feat: add weekly cron schedule via Trigger.dev API
 
 
+### 2025-08-21
+- feat: implement dry-run mode for testing without email send
+
+
