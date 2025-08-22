@@ -1319,3 +1319,7 @@ All notable changes are documented here.
 - feat: implement performance comparison vs benchmark
 
 
+### 2024-12-25
+- test: add Zod schema validation tests
+
+
