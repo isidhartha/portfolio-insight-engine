@@ -1327,3 +1327,7 @@ All notable changes are documented here.
 - feat: add Zod validation for all job input and output types
 
 
+### 2025-01-09
+- fix: resolve race condition in parallel ticker fetch
+
+
