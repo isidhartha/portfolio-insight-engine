@@ -1343,3 +1343,7 @@ All notable changes are documented here.
 - feat: add OpenAI GPT-4o integration for content generation
 
 
+### 2025-02-04
+- feat: add sector allocation breakdown in portfolio report
+
+
