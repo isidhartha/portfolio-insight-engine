@@ -1603,3 +1603,7 @@ All notable changes are documented here.
 - refactor: extract all prompt templates to constants file
 
 
+### 2025-09-05
+- feat: implement structured race summary prompt template
+
+
