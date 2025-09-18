@@ -1367,3 +1367,7 @@ All notable changes are documented here.
 - feat: implement yfin.dev price fetch per ticker symbol
 
 
+### 2025-02-19
+- feat: implement OpenAI embeddings for semantic indexing
+
+
