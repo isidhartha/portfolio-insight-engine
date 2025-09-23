@@ -1615,3 +1615,7 @@ All notable changes are documented here.
 - refactor: move Zod schemas to dedicated types.ts file
 
 
+### 2025-09-23
+- docs: document portfolio CSV format with example
+
+
