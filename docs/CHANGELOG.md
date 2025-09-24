@@ -1619,3 +1619,7 @@ All notable changes are documented here.
 - docs: document portfolio CSV format with example
 
 
+### 2025-09-24
+- feat: implement FastF1 Python subprocess integration
+
+
