@@ -1371,3 +1371,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2025-02-23
+- feat: add Zod validation for all job input and output types
+
+
