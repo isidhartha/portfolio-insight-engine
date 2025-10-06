@@ -1395,3 +1395,7 @@ All notable changes are documented here.
 - fix: handle empty vector store gracefully on first query
 
 
+### 2025-03-09
+- feat: add Zod validation for all job input and output types
+
+
