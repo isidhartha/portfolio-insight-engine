@@ -1399,3 +1399,7 @@ All notable changes are documented here.
 - feat: add Zod validation for all job input and output types
 
 
+### 2025-03-15
+- refactor: extract HTML email template to separate module
+
+
