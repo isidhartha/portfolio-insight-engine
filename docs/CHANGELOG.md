@@ -1403,3 +1403,7 @@ All notable changes are documented here.
 - refactor: extract HTML email template to separate module
 
 
+### 2025-03-16
+- fix: fix timestamp formatting in email footer
+
+
