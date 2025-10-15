@@ -1419,3 +1419,7 @@ All notable changes are documented here.
 - fix: fix OpenAI token limit for long race summaries
 
 
+### 2025-04-15
+- feat: add webhook trigger support alongside scheduled runs
+
+
