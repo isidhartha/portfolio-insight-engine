@@ -1423,3 +1423,7 @@ All notable changes are documented here.
 - feat: add webhook trigger support alongside scheduled runs
 
 
+### 2025-04-22
+- perf: reduce HTML email template render time
+
+
