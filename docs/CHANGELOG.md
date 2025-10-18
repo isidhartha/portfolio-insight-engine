@@ -1427,3 +1427,7 @@ All notable changes are documented here.
 - perf: reduce HTML email template render time
 
 
+### 2025-04-22
+- feat: implement structured race summary prompt template
+
+
