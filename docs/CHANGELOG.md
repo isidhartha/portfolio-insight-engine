@@ -1635,3 +1635,7 @@ All notable changes are documented here.
 - refactor: separate ingest and query into distinct CLI commands
 
 
+### 2025-10-19
+- fix: handle missing race data for sprint race weekends
+
+
