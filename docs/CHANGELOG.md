@@ -1431,3 +1431,7 @@ All notable changes are documented here.
 - feat: implement structured race summary prompt template
 
 
+### 2025-04-27
+- docs: add troubleshooting guide for common API errors
+
+
