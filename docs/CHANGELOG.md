@@ -1639,3 +1639,7 @@ All notable changes are documented here.
 - fix: handle missing race data for sprint race weekends
 
 
+### 2025-10-21
+- fix: fix Zod union type validation for optional fields
+
+
