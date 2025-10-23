@@ -1439,3 +1439,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2025-04-29
+- feat: implement HTML email template with performance tables
+
+
