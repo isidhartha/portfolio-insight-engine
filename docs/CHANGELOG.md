@@ -1643,3 +1643,7 @@ All notable changes are documented here.
 - fix: fix Zod union type validation for optional fields
 
 
+### 2025-10-25
+- perf: cache embeddings for repeated identical queries
+
+
