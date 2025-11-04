@@ -1655,3 +1655,7 @@ All notable changes are documented here.
 - fix: handle empty vector store gracefully on first query
 
 
+### 2025-11-04
+- docs: document all required environment variables
+
+
