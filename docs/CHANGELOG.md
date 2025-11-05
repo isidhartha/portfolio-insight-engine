@@ -1467,3 +1467,7 @@ All notable changes are documented here.
 - refactor: extract chunking logic into reusable utility
 
 
+### 2025-05-25
+- style: run prettier on all TypeScript source files
+
+
