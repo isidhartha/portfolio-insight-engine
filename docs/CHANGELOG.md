@@ -1663,3 +1663,7 @@ All notable changes are documented here.
 - feat: add sector allocation breakdown in portfolio report
 
 
+### 2025-11-07
+- feat: implement Resend email dispatch with HTML template
+
+
