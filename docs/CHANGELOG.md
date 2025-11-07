@@ -1475,3 +1475,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2025-05-29
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
