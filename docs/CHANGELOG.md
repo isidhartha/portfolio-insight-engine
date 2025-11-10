@@ -1667,3 +1667,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2025-11-10
+- feat: implement performance comparison vs benchmark
+
+
