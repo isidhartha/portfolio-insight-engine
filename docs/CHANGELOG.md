@@ -1671,3 +1671,7 @@ All notable changes are documented here.
 - feat: implement performance comparison vs benchmark
 
 
+### 2025-11-16
+- chore: update openai package to latest stable
+
+
