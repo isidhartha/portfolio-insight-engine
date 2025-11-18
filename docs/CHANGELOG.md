@@ -1679,3 +1679,7 @@ All notable changes are documented here.
 - fix: fix text chunking at Unicode character boundaries
 
 
+### 2025-11-18
+- feat: add portfolio CSV parser and Zod schema validation
+
+
