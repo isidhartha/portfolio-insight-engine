@@ -1491,3 +1491,7 @@ All notable changes are documented here.
 - feat: implement top-K context retrieval by cosine similarity
 
 
+### 2025-06-02
+- chore: update openai package to latest stable
+
+
