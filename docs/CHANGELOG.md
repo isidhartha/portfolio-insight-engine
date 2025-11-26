@@ -1695,3 +1695,7 @@ All notable changes are documented here.
 - docs: add email template customisation guide
 
 
+### 2025-11-26
+- feat: implement Resend email dispatch with HTML template
+
+
