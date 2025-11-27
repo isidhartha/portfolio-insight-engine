@@ -1511,3 +1511,7 @@ All notable changes are documented here.
 - chore: configure tsconfig strict mode
 
 
+### 2025-06-26
+- chore: update openai package to latest stable
+
+
