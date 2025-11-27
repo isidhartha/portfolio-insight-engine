@@ -1699,3 +1699,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2025-11-27
+- test: add Zod schema validation tests
+
+
