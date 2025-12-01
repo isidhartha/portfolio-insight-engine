@@ -1703,3 +1703,7 @@ All notable changes are documented here.
 - test: add Zod schema validation tests
 
 
+### 2025-12-01
+- docs: update README with Trigger.dev setup walkthrough
+
+
