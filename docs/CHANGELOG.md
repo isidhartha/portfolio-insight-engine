@@ -1519,3 +1519,7 @@ All notable changes are documented here.
 - refactor: consolidate error handling into middleware wrapper
 
 
+### 2025-06-30
+- fix: resolve job retry causing duplicate email delivery
+
+
