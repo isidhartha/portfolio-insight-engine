@@ -1707,3 +1707,7 @@ All notable changes are documented here.
 - docs: update README with Trigger.dev setup walkthrough
 
 
+### 2025-12-01
+- docs: add RAG pipeline explanation to architecture.md
+
+
