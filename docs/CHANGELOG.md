@@ -1527,3 +1527,7 @@ All notable changes are documented here.
 - feat: implement FastF1 Python subprocess integration
 
 
+### 2025-07-03
+- fix: fix email subject encoding for special characters
+
+
