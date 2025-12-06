@@ -1711,3 +1711,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2025-12-06
+- fix: fix timestamp formatting in email footer
+
+
