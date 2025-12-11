@@ -1723,3 +1723,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2025-12-11
+- feat: implement FastF1 Python subprocess integration
+
+
