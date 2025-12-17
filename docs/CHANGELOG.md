@@ -1543,3 +1543,7 @@ All notable changes are documented here.
 - feat: add chart image generation and email attachment
 
 
+### 2025-07-23
+- docs: document all required environment variables
+
+
