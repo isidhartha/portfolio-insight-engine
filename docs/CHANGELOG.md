@@ -1547,3 +1547,7 @@ All notable changes are documented here.
 - docs: document all required environment variables
 
 
+### 2025-07-26
+- docs: add troubleshooting guide for common API errors
+
+
