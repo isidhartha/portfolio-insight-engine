@@ -1751,3 +1751,7 @@ All notable changes are documented here.
 - chore: update TypeScript to 5.4
 
 
+### 2026-01-08
+- fix: resolve job retry causing duplicate email delivery
+
+
