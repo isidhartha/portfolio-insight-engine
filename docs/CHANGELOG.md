@@ -1755,3 +1755,7 @@ All notable changes are documented here.
 - fix: resolve job retry causing duplicate email delivery
 
 
+### 2026-01-14
+- perf: reduce HTML email template render time
+
+
