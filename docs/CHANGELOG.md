@@ -1763,3 +1763,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2026-01-15
+- perf: reduce HTML email template render time
+
+
