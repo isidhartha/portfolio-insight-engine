@@ -1767,3 +1767,7 @@ All notable changes are documented here.
 - perf: reduce HTML email template render time
 
 
+### 2026-01-16
+- feat: implement RAG document ingestion pipeline
+
+
