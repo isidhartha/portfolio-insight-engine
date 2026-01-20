@@ -1779,3 +1779,7 @@ All notable changes are documented here.
 - refactor: separate ingest and query into distinct CLI commands
 
 
+### 2026-01-20
+- feat: add exponential backoff retry for API failures
+
+
