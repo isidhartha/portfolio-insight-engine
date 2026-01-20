@@ -1587,3 +1587,7 @@ All notable changes are documented here.
 - fix: resolve race condition in parallel ticker fetch
 
 
+### 2025-08-19
+- refactor: extract HTML email template to separate module
+
+
