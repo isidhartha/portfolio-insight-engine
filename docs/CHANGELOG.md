@@ -1787,3 +1787,7 @@ All notable changes are documented here.
 - test: add unit tests for portfolio CSV parser
 
 
+### 2026-01-21
+- feat: implement Resend email dispatch with HTML template
+
+
