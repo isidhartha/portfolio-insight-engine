@@ -1795,3 +1795,7 @@ All notable changes are documented here.
 - refactor: separate data fetching from job orchestration
 
 
+### 2026-01-22
+- refactor: extract HTML email template to separate module
+
+
