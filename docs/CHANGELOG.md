@@ -1599,3 +1599,7 @@ All notable changes are documented here.
 - feat: implement dry-run mode for testing without email send
 
 
+### 2025-08-27
+- refactor: extract all prompt templates to constants file
+
+
