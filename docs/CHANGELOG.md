@@ -1607,3 +1607,7 @@ All notable changes are documented here.
 - feat: implement structured race summary prompt template
 
 
+### 2025-09-10
+- fix: handle incomplete FastF1 data for cancelled races
+
+
