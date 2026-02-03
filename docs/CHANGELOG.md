@@ -1611,3 +1611,7 @@ All notable changes are documented here.
 - fix: handle incomplete FastF1 data for cancelled races
 
 
+### 2025-09-12
+- refactor: move Zod schemas to dedicated types.ts file
+
+
