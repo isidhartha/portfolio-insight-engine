@@ -1623,3 +1623,7 @@ All notable changes are documented here.
 - feat: implement FastF1 Python subprocess integration
 
 
+### 2025-09-30
+- fix: resolve race condition in parallel ticker fetch
+
+
