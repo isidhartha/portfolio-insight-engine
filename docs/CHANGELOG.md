@@ -1811,3 +1811,7 @@ All notable changes are documented here.
 - fix: resolve Trigger.dev job timeout for large portfolios
 
 
+### 2026-02-09
+- perf: cache embeddings for repeated identical queries
+
+
