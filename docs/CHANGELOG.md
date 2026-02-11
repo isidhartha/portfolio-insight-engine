@@ -1631,3 +1631,7 @@ All notable changes are documented here.
 - style: run prettier on all TypeScript source files
 
 
+### 2025-10-16
+- refactor: separate ingest and query into distinct CLI commands
+
+
