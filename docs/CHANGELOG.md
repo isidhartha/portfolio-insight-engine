@@ -1815,3 +1815,7 @@ All notable changes are documented here.
 - perf: cache embeddings for repeated identical queries
 
 
+### 2026-02-11
+- refactor: consolidate all API client configuration
+
+
