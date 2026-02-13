@@ -1819,3 +1819,7 @@ All notable changes are documented here.
 - refactor: consolidate all API client configuration
 
 
+### 2026-02-13
+- feat: add race data JSON parsing with Zod schema
+
+
