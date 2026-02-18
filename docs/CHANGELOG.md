@@ -1647,3 +1647,7 @@ All notable changes are documented here.
 - perf: cache embeddings for repeated identical queries
 
 
+### 2025-10-31
+- feat: implement FastF1 Python subprocess integration
+
+
