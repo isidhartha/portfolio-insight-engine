@@ -1651,3 +1651,7 @@ All notable changes are documented here.
 - feat: implement FastF1 Python subprocess integration
 
 
+### 2025-10-31
+- fix: handle empty vector store gracefully on first query
+
+
