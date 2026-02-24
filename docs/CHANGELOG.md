@@ -1659,3 +1659,7 @@ All notable changes are documented here.
 - docs: document all required environment variables
 
 
+### 2025-11-05
+- feat: add sector allocation breakdown in portfolio report
+
+
