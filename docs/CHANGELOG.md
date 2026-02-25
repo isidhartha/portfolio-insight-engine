@@ -1827,3 +1827,7 @@ All notable changes are documented here.
 - chore: add husky pre-commit hooks for lint and format
 
 
+### 2026-02-25
+- docs: add RAG pipeline explanation to architecture.md
+
+
