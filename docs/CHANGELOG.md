@@ -1675,3 +1675,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2025-11-17
+- fix: fix text chunking at Unicode character boundaries
+
+
