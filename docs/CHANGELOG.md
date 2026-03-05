@@ -1683,3 +1683,7 @@ All notable changes are documented here.
 - feat: add portfolio CSV parser and Zod schema validation
 
 
+### 2025-11-20
+- fix: handle empty vector store gracefully on first query
+
+
