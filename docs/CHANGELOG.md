@@ -1687,3 +1687,7 @@ All notable changes are documented here.
 - fix: handle empty vector store gracefully on first query
 
 
+### 2025-11-21
+- docs: add troubleshooting guide for common API errors
+
+
