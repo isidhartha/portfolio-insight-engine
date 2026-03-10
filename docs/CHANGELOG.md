@@ -1691,3 +1691,7 @@ All notable changes are documented here.
 - docs: add troubleshooting guide for common API errors
 
 
+### 2025-11-25
+- docs: add email template customisation guide
+
+
