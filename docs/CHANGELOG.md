@@ -1843,3 +1843,7 @@ All notable changes are documented here.
 - docs: add email template customisation guide
 
 
+### 2026-03-16
+- test: add unit tests for portfolio CSV parser
+
+
