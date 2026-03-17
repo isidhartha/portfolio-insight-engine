@@ -1847,3 +1847,7 @@ All notable changes are documented here.
 - test: add unit tests for portfolio CSV parser
 
 
+### 2026-03-17
+- feat: implement CLI for ingest and query commands
+
+
