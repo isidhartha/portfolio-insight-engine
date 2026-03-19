@@ -1715,3 +1715,7 @@ All notable changes are documented here.
 - fix: fix timestamp formatting in email footer
 
 
+### 2025-12-09
+- test: add integration test for Trigger.dev job definition
+
+
