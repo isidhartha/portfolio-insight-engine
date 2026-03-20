@@ -1719,3 +1719,7 @@ All notable changes are documented here.
 - test: add integration test for Trigger.dev job definition
 
 
+### 2025-12-10
+- chore: update openai package to latest stable
+
+
