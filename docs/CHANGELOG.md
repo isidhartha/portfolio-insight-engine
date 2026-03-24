@@ -1727,3 +1727,7 @@ All notable changes are documented here.
 - feat: implement FastF1 Python subprocess integration
 
 
+### 2025-12-18
+- chore: pin trigger.dev packages to stable release
+
+
