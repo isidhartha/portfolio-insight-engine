@@ -1851,3 +1851,7 @@ All notable changes are documented here.
 - feat: implement CLI for ingest and query commands
 
 
+### 2026-03-29
+- feat: implement structured race summary prompt template
+
+
