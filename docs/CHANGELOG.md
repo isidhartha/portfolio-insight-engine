@@ -1739,3 +1739,7 @@ All notable changes are documented here.
 - test: add mock-based test for OpenAI API call
 
 
+### 2025-12-29
+- feat: implement CLI for ingest and query commands
+
+
