@@ -1743,3 +1743,7 @@ All notable changes are documented here.
 - feat: implement CLI for ingest and query commands
 
 
+### 2026-01-01
+- fix: resolve HTML entity encoding in email template
+
+
