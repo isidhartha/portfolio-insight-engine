@@ -1855,3 +1855,7 @@ All notable changes are documented here.
 - feat: implement structured race summary prompt template
 
 
+### 2026-03-31
+- test: add mock-based test for OpenAI API call
+
+
