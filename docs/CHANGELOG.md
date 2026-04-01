@@ -1747,3 +1747,7 @@ All notable changes are documented here.
 - fix: resolve HTML entity encoding in email template
 
 
+### 2026-01-08
+- chore: update TypeScript to 5.4
+
+
