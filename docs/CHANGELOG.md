@@ -1859,3 +1859,7 @@ All notable changes are documented here.
 - test: add mock-based test for OpenAI API call
 
 
+### 2026-04-07
+- feat: add chart image generation and email attachment
+
+
