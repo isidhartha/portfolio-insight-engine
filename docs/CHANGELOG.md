@@ -1771,3 +1771,7 @@ All notable changes are documented here.
 - feat: implement RAG document ingestion pipeline
 
 
+### 2026-01-17
+- feat: implement structured JSON logging for all operations
+
+
