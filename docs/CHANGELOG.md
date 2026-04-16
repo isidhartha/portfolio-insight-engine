@@ -1783,3 +1783,7 @@ All notable changes are documented here.
 - feat: add exponential backoff retry for API failures
 
 
+### 2026-01-21
+- test: add unit tests for portfolio CSV parser
+
+
