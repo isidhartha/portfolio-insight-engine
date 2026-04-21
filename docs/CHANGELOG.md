@@ -1871,3 +1871,7 @@ All notable changes are documented here.
 - chore: update TypeScript to 5.4
 
 
+### 2026-04-21
+- feat: implement OpenAI embeddings for semantic indexing
+
+
