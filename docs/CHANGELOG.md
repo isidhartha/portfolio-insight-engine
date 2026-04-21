@@ -1791,3 +1791,7 @@ All notable changes are documented here.
 - feat: implement Resend email dispatch with HTML template
 
 
+### 2026-01-22
+- refactor: separate data fetching from job orchestration
+
+
