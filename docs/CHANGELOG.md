@@ -1875,3 +1875,7 @@ All notable changes are documented here.
 - feat: implement OpenAI embeddings for semantic indexing
 
 
+### 2026-04-22
+- docs: add troubleshooting guide for common API errors
+
+
