@@ -1799,3 +1799,7 @@ All notable changes are documented here.
 - refactor: extract HTML email template to separate module
 
 
+### 2026-01-26
+- fix: resolve Trigger.dev job timeout for large portfolios
+
+
