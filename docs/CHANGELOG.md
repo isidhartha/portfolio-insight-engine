@@ -1831,3 +1831,7 @@ All notable changes are documented here.
 - docs: add RAG pipeline explanation to architecture.md
 
 
+### 2026-03-01
+- refactor: extract chunking logic into reusable utility
+
+
