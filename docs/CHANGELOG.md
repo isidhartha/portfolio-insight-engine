@@ -1887,3 +1887,7 @@ All notable changes are documented here.
 - fix: fix timestamp formatting in email footer
 
 
+### 2026-05-06
+- refactor: move Zod schemas to dedicated types.ts file
+
+
