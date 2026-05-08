@@ -1835,3 +1835,7 @@ All notable changes are documented here.
 - refactor: extract chunking logic into reusable utility
 
 
+### 2026-03-02
+- feat: add portfolio CSV parser and Zod schema validation
+
+
