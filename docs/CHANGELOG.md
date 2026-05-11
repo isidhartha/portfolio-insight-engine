@@ -1891,3 +1891,7 @@ All notable changes are documented here.
 - refactor: move Zod schemas to dedicated types.ts file
 
 
+### 2026-05-11
+- feat: add Zod validation for all job input and output types
+
+
