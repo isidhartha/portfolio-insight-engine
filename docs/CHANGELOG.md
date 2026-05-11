@@ -1839,3 +1839,7 @@ All notable changes are documented here.
 - feat: add portfolio CSV parser and Zod schema validation
 
 
+### 2026-03-09
+- docs: add email template customisation guide
+
+
