@@ -1899,3 +1899,7 @@ All notable changes are documented here.
 - chore: update openai package to latest stable
 
 
+### 2026-05-13
+- test: add email template rendering snapshot test
+
+
