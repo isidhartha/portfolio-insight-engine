@@ -1903,3 +1903,7 @@ All notable changes are documented here.
 - test: add email template rendering snapshot test
 
 
+### 2026-05-14
+- test: add unit tests for portfolio CSV parser
+
+
