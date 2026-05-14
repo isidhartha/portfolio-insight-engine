@@ -1907,3 +1907,7 @@ All notable changes are documented here.
 - test: add unit tests for portfolio CSV parser
 
 
+### 2026-05-14
+- fix: fix OpenAI token limit for long race summaries
+
+
