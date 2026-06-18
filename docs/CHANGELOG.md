@@ -1879,3 +1879,7 @@ All notable changes are documented here.
 - docs: add troubleshooting guide for common API errors
 
 
+### 2026-04-26
+- fix: handle cold-start API key validation failure
+
+
