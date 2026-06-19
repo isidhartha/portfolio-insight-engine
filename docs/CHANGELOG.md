@@ -1883,3 +1883,7 @@ All notable changes are documented here.
 - fix: handle cold-start API key validation failure
 
 
+### 2026-04-30
+- fix: fix timestamp formatting in email footer
+
+
