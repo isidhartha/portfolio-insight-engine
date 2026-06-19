@@ -1911,3 +1911,7 @@ All notable changes are documented here.
 - fix: fix OpenAI token limit for long race summaries
 
 
+### 2026-06-19
+- fix: handle incomplete FastF1 data for cancelled races
+
+
