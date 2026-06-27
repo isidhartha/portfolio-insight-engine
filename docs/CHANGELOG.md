@@ -1919,3 +1919,7 @@ All notable changes are documented here.
 - feat: add webhook trigger support alongside scheduled runs
 
 
+### 2026-06-27
+- feat: add OpenAI GPT-4o integration for content generation
+
+
