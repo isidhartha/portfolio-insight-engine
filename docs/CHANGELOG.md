@@ -1915,3 +1915,7 @@ All notable changes are documented here.
 - fix: handle incomplete FastF1 data for cancelled races
 
 
+### 2026-06-24
+- feat: add webhook trigger support alongside scheduled runs
+
+
