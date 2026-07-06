@@ -1923,3 +1923,7 @@ All notable changes are documented here.
 - feat: add OpenAI GPT-4o integration for content generation
 
 
+### 2026-07-01
+- fix: resolve race condition in parallel ticker fetch
+
+
