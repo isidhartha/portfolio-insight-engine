@@ -1927,3 +1927,7 @@ All notable changes are documented here.
 - fix: resolve race condition in parallel ticker fetch
 
 
+### 2026-07-06
+- feat: implement RAG document ingestion pipeline
+
+
