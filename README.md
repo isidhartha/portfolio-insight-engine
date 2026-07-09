@@ -1,5 +1,7 @@
 # Portfolio Insight Engine
 
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/portfolio-insight-engine)](https://github.com/isidhartha/portfolio-insight-engine/discussions)
+
 An automated AI-powered portfolio reporting system I built to take the manual work out of tracking stock performance. Every Monday morning, it pulls your latest holdings, fetches live price data, runs an AI-driven performance analysis, and delivers a clean summary straight to your inbox — no dashboard to check, no spreadsheet to update.
 
 ---
@@ -33,12 +35,18 @@ An automated AI-powered portfolio reporting system I built to take the manual wo
 
 ```bash
 # 1. Install dependencies
+
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/portfolio-insight-engine)](https://github.com/isidhartha/portfolio-insight-engine/discussions)
 npm install
 
 # 2. Copy environment variables and fill in your keys
+
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/portfolio-insight-engine)](https://github.com/isidhartha/portfolio-insight-engine/discussions)
 cp .env.example .env
 
 # 3. Start the Trigger.dev dev server
+
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/portfolio-insight-engine)](https://github.com/isidhartha/portfolio-insight-engine/discussions)
 npx trigger.dev@latest dev
 ```
 
