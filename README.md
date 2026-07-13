@@ -1,5 +1,7 @@
 # Portfolio Insight Engine
 
+[![Discussions](https://img.shields.io/github/discussions/isidhartha/portfolio-insight-engine)](https://github.com/isidhartha/portfolio-insight-engine/discussions)
+
 A scheduled pipeline that reads your stock holdings from a CSV, fetches current prices, generates an AI-written performance narrative, and emails you a report every Sunday. No dashboard to check, no spreadsheet to update — it just shows up in your inbox with a performance summary, two charts, and a short analysis of what moved and why.
 
 The pipeline runs as a Trigger.dev scheduled task (`0 12 * * 7` — Sundays at noon UTC). It fetches price data for each ticker, computes week-over-week returns and portfolio allocation, generates charts for performance and diversification, builds an HTML email with GPT-4o, and sends it via Resend. The task uses `payload.timestamp` for the reference date so the reported period is always the correct week, regardless of the server's local clock.
