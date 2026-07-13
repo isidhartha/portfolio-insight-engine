@@ -4,6 +4,8 @@
 
 A scheduled pipeline that reads your stock holdings from a CSV, fetches current prices, generates an AI-written performance narrative, and emails you a report every Sunday. No dashboard to check, no spreadsheet to update — it just shows up in your inbox with a performance summary, two charts, and a short analysis of what moved and why.
 
+I was spending every Sunday morning pulling up my brokerage app, copying numbers into a spreadsheet, and writing the same performance notes I'd written the week before. This project automates that entire loop — Sunday at noon it emails me a formatted report I actually want to read.
+
 The pipeline runs as a Trigger.dev scheduled task (`0 12 * * 7` — Sundays at noon UTC). It fetches price data for each ticker, computes week-over-week returns and portfolio allocation, generates charts for performance and diversification, builds an HTML email with GPT-4o, and sends it via Resend. The task uses `payload.timestamp` for the reference date so the reported period is always the correct week, regardless of the server's local clock.
 
 ## Features
@@ -78,7 +80,18 @@ flowchart LR
 
 ## Demo
 
-> Email report screenshots coming soon. Trigger the job manually from the Trigger.dev dashboard to see it run.
+![Desktop view](docs/images/screenshot_desktop.png)
+
+![Feature highlight](docs/images/screenshot_feature.png)
+
+<details>
+<summary>Mobile / compact view</summary>
+
+![Mobile view](docs/images/screenshot_mobile.png)
+
+</details>
+
+![Demo walkthrough](docs/images/demo.gif)
 
 ## Contributing
 
